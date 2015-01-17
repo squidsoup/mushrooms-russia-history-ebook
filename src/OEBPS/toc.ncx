@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="epubmerge-uid-1421290032" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Mushrooms, Russia and History</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Mushrooms, Russia and History</text>
+      </navLabel>
+      <content src="Text/cover.xhtml" />
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>TITLE PAGE</text>
+        </navLabel>
+        <content src="Text/title_page.html" />
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>CONTENTS</text>
+        </navLabel>
+        <content src="Text/contents.html" />
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>LIST OF PLATES &amp; ILLUSTRATIONS</text>
+        </navLabel>
+        <content src="Text/plates_and_illustrations.html" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>E-BOOK EDITION NOTES</text>
+        </navLabel>
+        <content src="Text/ebook_edition_notes.html" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>PREFACE</text>
+        </navLabel>
+        <content src="Text/preface.html" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>I. MUSHROOMS AND THE RUSSIANS</text>
+        </navLabel>
+        <content src="Text/chapter_1.html" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>II. MUSHROOMS AND THE ENGLISH</text>
+        </navLabel>
+        <content src="Text/chapter_2.html" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>III. MUSHROOMS AND HISTORY</text>
+        </navLabel>
+        <content src="Text/chapter_3.html" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IV. MUSHROOMS FOR MURDERERS</text>
+        </navLabel>
+        <content src="Text/chapter_4.html" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>V. THE RIDDLE OF THE TOAD AND OTHER SECRETS MUSHROOMIC</text>
+        </navLabel>
+        <content src="Text/chapter_5.html" />
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>1. The Venomous Toad</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_1.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>COLOPHON</text>
+        </navLabel>
+        <content src="Text/colophon.html" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>BIBLIOGRAPHICAL NOTES AND ACKNOWLEDGEMENTS</text>
+        </navLabel>
+        <content src="Text/biblio_notes_and_acknowledgements.html" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>APPENDIX I: Mushrooms in Tolstoy's 'Anna Karenina</text>
+        </navLabel>
+        <content src="Text/appendix_1.html" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>APPENDIX II: Aksakov's 'Remarks and Observations of a Mushroom Hunter'</text>
+        </navLabel>
+        <content src="Text/appendix_2.html" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>APPENDIX III: Leuba's 'Hymn to the Morel'</text>
+        </navLabel>
+        <content src="Text/appendix_3.html" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>APPENDIX IV: Hallucinogenic Mushrooms: Early Mexican Sources</text>
+        </navLabel>
+        <content src="Text/appendix_4.html" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

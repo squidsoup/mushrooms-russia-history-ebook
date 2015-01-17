@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epubmerge-id">epubmerge-uid-1421290032</dc:identifier>
+    <dc:title>Mushrooms, Russia and History</dc:title>
+    <dc:creator opf:role="aut">Valentina Pavlovna Wasson, R. Gordon Wasson</dc:creator>
+    <dc:contributor opf:role="bkp">epubmerge</dc:contributor>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:language>eng</dc:language>
+    <dc:description>Anthology containing: Mushrooms, Russia and History Volume 1 Mushrooms, Russia and History Volume 2</dc:description>
+    <meta name="cover" content="coverimageid" />
+    <meta content="0.8.2" name="Sigil version" />
+    <dc:date opf:event="modification">2015-01-15</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpg" id="coverimageid" media-type="image/jpeg" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Misc/content0001.opf" id="a1rootfile" media-type="origrootfile/xml" />
+    <item href="Images/cover.jpeg" id="a1cover" media-type="image/jpeg" />
+    <item href="Images/index-105_1.jpg" id="a1id2" media-type="image/jpeg" />
+    <item href="Images/index-107_1.jpg" id="a1id3" media-type="image/jpeg" />
+    <item href="Images/index-114_1.jpg" id="a1id4" media-type="image/jpeg" />
+    <item href="Images/index-119_1.jpg" id="a1id5" media-type="image/jpeg" />
+    <item href="Images/index-123_1.jpg" id="a1id6" media-type="image/jpeg" />
+    <item href="Images/index-127_1.jpg" id="a1id7" media-type="image/jpeg" />
+    <item href="Images/index-128_1.jpg" id="a1id8" media-type="image/jpeg" />
+    <item href="Images/index-130_1.jpg" id="a1id9" media-type="image/jpeg" />
+    <item href="Images/index-131_1.jpg" id="a1id10" media-type="image/jpeg" />
+    <item href="Images/index-132_1.jpg" id="a1id11" media-type="image/jpeg" />
+    <item href="Images/index-135_1.jpg" id="a1id12" media-type="image/jpeg" />
+    <item href="Images/index-145_2.jpg" id="a1id13" media-type="image/jpeg" />
+    <item href="Images/index-147_2.jpg" id="a1id14" media-type="image/jpeg" />
+    <item href="Images/index-153_1.jpg" id="a1id15" media-type="image/jpeg" />
+    <item href="Images/index-162_2.jpg" id="a1id16" media-type="image/jpeg" />
+    <item href="Images/index-168_1.jpg" id="a1id17" media-type="image/jpeg" />
+    <item href="Images/index-169_1.jpg" id="a1id18" media-type="image/jpeg" />
+    <item href="Images/index-176_1.jpg" id="a1id19" media-type="image/jpeg" />
+    <item href="Images/index-177_1.jpg" id="a1id20" media-type="image/jpeg" />
+    <item href="Images/index-177_2.jpg" id="a1id21" media-type="image/jpeg" />
+    <item href="Images/index-177_3.jpg" id="a1id22" media-type="image/jpeg" />
+    <item href="Images/index-181_1.jpg" id="a1id23" media-type="image/jpeg" />
+    <item href="Images/index-182_2.jpg" id="a1id24" media-type="image/jpeg" />
+    <item href="Images/index-183_2.jpg" id="a1id25" media-type="image/jpeg" />
+    <item href="Images/index-184_1.jpg" id="a1id26" media-type="image/jpeg" />
+    <item href="Images/index-190_2.jpg" id="a1id27" media-type="image/jpeg" />
+    <item href="Images/index-191_1.jpg" id="a1id28" media-type="image/jpeg" />
+    <item href="Images/index-197_2.jpg" id="a1id29" media-type="image/jpeg" />
+    <item href="Images/index-1_2.jpg" id="a1id30" media-type="image/jpeg" />
+    <item href="Images/index-202_2.jpg" id="a1id31" media-type="image/jpeg" />
+    <item href="Images/index-211_1.jpg" id="a1id32" media-type="image/jpeg" />
+    <item href="Images/index-215_1.jpg" id="a1id33" media-type="image/jpeg" />
+    <item href="Images/index-21_1.jpg" id="a1id34" media-type="image/jpeg" />
+    <item href="Images/index-228_1.jpg" id="a1id35" media-type="image/jpeg" />
+    <item href="Images/index-232_1.jpg" id="a1id36" media-type="image/jpeg" />
+    <item href="Images/index-234_1.jpg" id="a1id37" media-type="image/jpeg" />
+    <item href="Images/index-239_1.jpg" id="a1id38" media-type="image/jpeg" />
+    <item href="Images/index-23_1.jpg" id="a1id39" media-type="image/jpeg" />
+    <item href="Images/index-253_1.jpg" id="a1id40" media-type="image/jpeg" />
+    <item href="Images/index-254_1.jpg" id="a1id41" media-type="image/jpeg" />
+    <item href="Images/index-260_1.jpg" id="a1id42" media-type="image/jpeg" />
+    <item href="Images/index-277_1.jpg" id="a1id43" media-type="image/jpeg" />
+    <item href="Images/index-278_1.jpg" id="a1id44" media-type="image/jpeg" />
+    <item href="Images/index-279_1.jpg" id="a1id45" media-type="image/jpeg" />
+    <item href="Images/index-287_3.jpg" id="a1id46" media-type="image/jpeg" />
+    <item href="Images/index-287_2.jpg" id="a1id47" media-type="image/jpeg" />
+    <item href="Images/index-2_1.jpg" id="a1id48" media-type="image/jpeg" />
+    <item href="Images/index-2_2.jpg" id="a1id49" media-type="image/jpeg" />
+    <item href="Images/index-33_1.jpg" id="a1id50" media-type="image/jpeg" />
+    <item href="Images/index-39_1.jpg" id="a1id51" media-type="image/jpeg" />
+    <item href="Images/index-46_1.jpg" id="a1id52" media-type="image/jpeg" />
+    <item href="Images/index-58_2.jpg" id="a1id53" media-type="image/jpeg" />
+    <item href="Images/index-62_1.jpg" id="a1id54" media-type="image/jpeg" />
+    <item href="Images/index-68_1.jpg" id="a1id55" media-type="image/jpeg" />
+    <item href="Images/index-77_1.jpg" id="a1id56" media-type="image/jpeg" />
+    <item href="Images/index-87_1.jpg" id="a1id57" media-type="image/jpeg" />
+    <item href="Images/index-93_1.jpg" id="a1id58" media-type="image/jpeg" />
+    <item href="Images/index-95_1.jpg" id="a1id59" media-type="image/jpeg" />
+    <item href="Text/title_page.html" id="a1title_page.html" media-type="application/xhtml+xml" />
+    <item href="Text/copyright.html" id="a1copyright.html" media-type="application/xhtml+xml" />
+    <item href="Text/contents.html" id="a1contents.html" media-type="application/xhtml+xml" />
+    <item href="Text/plates_and_illustrations.html" id="a1plates_and_illustrations.html" media-type="application/xhtml+xml" />
+    <item href="Text/preface.html" id="a1preface.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_1.html" id="a1chapter_1.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_3.html" id="a1chapter_3.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_4.html" id="a1chapter_4.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_1.html" id="a1chapter_5_book_1.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_2.html" id="a1chapter_5_book_2.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_3.html" id="a1chapter_5_book_3.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_4.html" id="a1chapter_5_book_4.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_5.html" id="a1chapter_5_book_5.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_6.html" id="a1chapter_5_book_6.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_7.html" id="a1chapter_5_book_7.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_8.html" id="a1chapter_5_book_8.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_9.html" id="a1chapter_5_book_9.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_10.html" id="a1chapter_5_book_10.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_11.html" id="a1chapter_5_book_11.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_12.html" id="a1chapter_5_book_12.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_13.html" id="a1chapter_5_book_13.html" media-type="application/xhtml+xml" />
+    <item href="Text/colophon.html" id="a1colophon.html" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="a1page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="a1css" media-type="text/css" />
+    <item href="Text/cover.xhtml" id="a1cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="1/OEBPS/toc.ncx" id="a1ncx" media-type="origtocncx/xml" />
+    <item href="Text/chapter_2.html" id="a1chapter_2.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5.html" id="a1chapter_5.html" media-type="application/xhtml+xml" />
+    <item href="Text/ebook_edition_notes.html" id="a1ebook_edition_notes.html" media-type="application/xhtml+xml" />
+    <item href="Misc/content0001.opf" id="a2rootfile" media-type="origrootfile/xml" />
+    <item href="Images/cover.jpeg" id="a2cover" media-type="image/jpeg" />
+    <item href="Images/index-101_1.jpg" id="a2id2" media-type="image/jpeg" />
+    <item href="Images/index-102_1.jpg" id="a2id3" media-type="image/jpeg" />
+    <item href="Images/index-103_1.jpg" id="a2id4" media-type="image/jpeg" />
+    <item href="Images/index-104_1.jpg" id="a2id5" media-type="image/jpeg" />
+    <item href="Images/index-111_1.jpg" id="a2id6" media-type="image/jpeg" />
+    <item href="Images/index-11_1.jpg" id="a2id7" media-type="image/jpeg" />
+    <item href="Images/index-124_1.jpg" id="a2id8" media-type="image/jpeg" />
+    <item href="Images/index-128_1.jpg" id="a2id9" media-type="image/jpeg" />
+    <item href="Images/index-132_1.jpg" id="a2id10" media-type="image/jpeg" />
+    <item href="Images/index-132_3.jpg" id="a2id11" media-type="image/jpeg" />
+    <item href="Images/index-135_1.jpg" id="a2id12" media-type="image/jpeg" />
+    <item href="Images/index-136_1.jpg" id="a2id13" media-type="image/jpeg" />
+    <item href="Images/index-137_1.jpg" id="a2id14" media-type="image/jpeg" />
+    <item href="Images/index-140_1.jpg" id="a2id15" media-type="image/jpeg" />
+    <item href="Images/index-143_1.jpg" id="a2id16" media-type="image/jpeg" />
+    <item href="Images/index-145_2.jpg" id="a2id17" media-type="image/jpeg" />
+    <item href="Images/index-146_1.jpg" id="a2id18" media-type="image/jpeg" />
+    <item href="Images/index-147_2.jpg" id="a2id19" media-type="image/jpeg" />
+    <item href="Images/index-147_3.jpg" id="a2id20" media-type="image/jpeg" />
+    <item href="Images/index-14_1.jpg" id="a2id21" media-type="image/jpeg" />
+    <item href="Images/index-153_1.jpg" id="a2id22" media-type="image/jpeg" />
+    <item href="Images/index-153_3.jpg" id="a2id23" media-type="image/jpeg" />
+    <item href="Images/index-162_2.jpg" id="a2id24" media-type="image/jpeg" />
+    <item href="Images/index-171_1.jpg" id="a2id25" media-type="image/jpeg" />
+    <item href="Images/index-172_1.jpg" id="a2id26" media-type="image/jpeg" />
+    <item href="Images/index-174_1.jpg" id="a2id27" media-type="image/jpeg" />
+    <item href="Images/index-182_2.jpg" id="a2id28" media-type="image/jpeg" />
+    <item href="Images/index-183_2.jpg" id="a2id29" media-type="image/jpeg" />
+    <item href="Images/index-185_1.jpg" id="a2id30" media-type="image/jpeg" />
+    <item href="Images/index-186_1.jpg" id="a2id31" media-type="image/jpeg" />
+    <item href="Images/index-188_1.jpg" id="a2id32" media-type="image/jpeg" />
+    <item href="Images/index-189_1.jpg" id="a2id33" media-type="image/jpeg" />
+    <item href="Images/index-190_2.jpg" id="a2id34" media-type="image/jpeg" />
+    <item href="Images/index-192_1.jpg" id="a2id35" media-type="image/jpeg" />
+    <item href="Images/index-193_1.jpg" id="a2id36" media-type="image/jpeg" />
+    <item href="Images/index-194_1.jpg" id="a2id37" media-type="image/jpeg" />
+    <item href="Images/index-195_1.jpg" id="a2id38" media-type="image/jpeg" />
+    <item href="Images/index-196_1.jpg" id="a2id39" media-type="image/jpeg" />
+    <item href="Images/index-197_2.jpg" id="a2id40" media-type="image/jpeg" />
+    <item href="Images/index-198_1.jpg" id="a2id41" media-type="image/jpeg" />
+    <item href="Images/index-1_2.jpg" id="a2id42" media-type="image/jpeg" />
+    <item href="Images/index-200_1.jpg" id="a2id43" media-type="image/jpeg" />
+    <item href="Images/index-201_1.jpg" id="a2id44" media-type="image/jpeg" />
+    <item href="Images/index-202_2.jpg" id="a2id45" media-type="image/jpeg" />
+    <item href="Images/index-204_1.jpg" id="a2id46" media-type="image/jpeg" />
+    <item href="Images/index-205_1.jpg" id="a2id47" media-type="image/jpeg" />
+    <item href="Images/index-215_1.jpg" id="a2id48" media-type="image/jpeg" />
+    <item href="Images/index-217_1.jpg" id="a2id49" media-type="image/jpeg" />
+    <item href="Images/index-219_1.jpg" id="a2id50" media-type="image/jpeg" />
+    <item href="Images/index-227_1.jpg" id="a2id51" media-type="image/jpeg" />
+    <item href="Images/index-250_1.jpg" id="a2id52" media-type="image/jpeg" />
+    <item href="Images/index-252_1.jpg" id="a2id53" media-type="image/jpeg" />
+    <item href="Images/index-25_1.jpg" id="a2id54" media-type="image/jpeg" />
+    <item href="Images/index-262_1.jpg" id="a2id55" media-type="image/jpeg" />
+    <item href="Images/index-287_3.jpg" id="a2id56" media-type="image/jpeg" />
+    <item href="Images/index-287_2.jpg" id="a2id57" media-type="image/jpeg" />
+    <item href="Images/index-289_1.jpg" id="a2id58" media-type="image/jpeg" />
+    <item href="Images/index-289_2.jpg" id="a2id59" media-type="image/jpeg" />
+    <item href="Images/index-289_3.jpg" id="a2id60" media-type="image/jpeg" />
+    <item href="Images/index-289_4.jpg" id="a2id61" media-type="image/jpeg" />
+    <item href="Images/index-289_5.jpg" id="a2id62" media-type="image/jpeg" />
+    <item href="Images/index-289_6.jpg" id="a2id63" media-type="image/jpeg" />
+    <item href="Images/index-289_7.jpg" id="a2id64" media-type="image/jpeg" />
+    <item href="Images/index-290_1.jpg" id="a2id65" media-type="image/jpeg" />
+    <item href="Images/index-291_1.jpg" id="a2id66" media-type="image/jpeg" />
+    <item href="Images/index-2_1.jpg" id="a2id67" media-type="image/jpeg" />
+    <item href="Images/index-2_2.jpg" id="a2id68" media-type="image/jpeg" />
+    <item href="Images/index-30_1.jpg" id="a2id69" media-type="image/jpeg" />
+    <item href="Images/index-31_1.jpg" id="a2id70" media-type="image/jpeg" />
+    <item href="Images/index-31_2.jpg" id="a2id71" media-type="image/jpeg" />
+    <item href="Images/index-40_1.jpg" id="a2id72" media-type="image/jpeg" />
+    <item href="Images/index-45_1.jpg" id="a2id73" media-type="image/jpeg" />
+    <item href="Images/index-52_1.jpg" id="a2id74" media-type="image/jpeg" />
+    <item href="Images/index-54_1.jpg" id="a2id75" media-type="image/jpeg" />
+    <item href="Images/index-56_1.jpg" id="a2id76" media-type="image/jpeg" />
+    <item href="Images/index-58_2.jpg" id="a2id77" media-type="image/jpeg" />
+    <item href="Images/index-60_1.jpg" id="a2id78" media-type="image/jpeg" />
+    <item href="Images/index-61_1.jpg" id="a2id79" media-type="image/jpeg" />
+    <item href="Images/index-62_1.jpg" id="a2id80" media-type="image/jpeg" />
+    <item href="Images/index-62_3.jpg" id="a2id81" media-type="image/jpeg" />
+    <item href="Images/index-64_1.jpg" id="a2id82" media-type="image/jpeg" />
+    <item href="Images/index-64_2.jpg" id="a2id83" media-type="image/jpeg" />
+    <item href="Images/index-65_1.jpg" id="a2id84" media-type="image/jpeg" />
+    <item href="Images/index-66_1.jpg" id="a2id85" media-type="image/jpeg" />
+    <item href="Images/index-78_1.jpg" id="a2id86" media-type="image/jpeg" />
+    <item href="Images/index-79_1.jpg" id="a2id87" media-type="image/jpeg" />
+    <item href="Images/index-82_1.jpg" id="a2id88" media-type="image/jpeg" />
+    <item href="Images/index-83_1.jpg" id="a2id89" media-type="image/jpeg" />
+    <item href="Images/index-84_1.jpg" id="a2id90" media-type="image/jpeg" />
+    <item href="Images/index-85_1.jpg" id="a2id91" media-type="image/jpeg" />
+    <item href="Images/index-88_1.jpg" id="a2id92" media-type="image/jpeg" />
+    <item href="Images/index-97_1.jpg" id="a2id93" media-type="image/jpeg" />
+    <item href="Text/chapter_5_book_14.html" id="a2chapter_5_book_14.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_15.html" id="a2chapter_5_book_15.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_16.html" id="a2chapter_5_book_16.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_17.html" id="a2chapter_5_book_17.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_18.html" id="a2chapter_5_book_18.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_19.html" id="a2chapter_5_book_19.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_20.html" id="a2chapter_5_book_20.html" media-type="application/xhtml+xml" />
+    <item href="Text/chapter_5_book_21.html" id="a2chapter_5_book_21.html" media-type="application/xhtml+xml" />
+    <item href="Text/index_persons_and_places.html" id="index_persons_and_places.html" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="a2page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="a2css" media-type="text/css" />
+    <item href="2/OEBPS/toc.ncx" id="a2ncx" media-type="origtocncx/xml" />
+    <item href="Text/index_mushroom_names.html" id="index_mushroom_names.html" media-type="application/xhtml+xml" />
+    <item href="Text/fungal_metaphor_and_sem_assoc.html" id="fungal_metaphor_and_sem_assoc.html" media-type="application/xhtml+xml" />
+    <item href="Text/appendix_4.html" id="appendix_4.html" media-type="application/xhtml+xml" />
+    <item href="Text/appendix_3.html" id="appendix_3.html" media-type="application/xhtml+xml" />
+    <item href="Text/appendix_2.html" id="appendix_2.html" media-type="application/xhtml+xml" />
+    <item href="Text/appendix_1.html" id="appendix_1.html" media-type="application/xhtml+xml" />
+    <item href="Text/biblio_notes_and_acknowledgements.html" id="biblio_notes_and_acknowledgements.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="a1cover.xhtml" linear="yes" />
+    <itemref idref="a1title_page.html" linear="yes" />
+    <itemref idref="a1copyright.html" linear="yes" />
+    <itemref idref="a1contents.html" linear="yes" />
+    <itemref idref="a1plates_and_illustrations.html" linear="yes" />
+    <itemref idref="a1ebook_edition_notes.html" linear="yes" />
+    <itemref idref="a1preface.html" linear="yes" />
+    <itemref idref="a1colophon.html" linear="yes" />
+    <itemref idref="a1chapter_1.html" linear="yes" />
+    <itemref idref="a1chapter_2.html" linear="yes" />
+    <itemref idref="a1chapter_3.html" linear="yes" />
+    <itemref idref="a1chapter_4.html" linear="yes" />
+    <itemref idref="a1chapter_5.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_1.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_2.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_3.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_4.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_5.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_6.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_7.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_8.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_9.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_10.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_11.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_12.html" linear="yes" />
+    <itemref idref="a1chapter_5_book_13.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_14.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_15.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_16.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_17.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_18.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_19.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_20.html" linear="yes" />
+    <itemref idref="a2chapter_5_book_21.html" linear="yes" />
+    <itemref idref="biblio_notes_and_acknowledgements.html" />
+    <itemref idref="appendix_1.html" />
+    <itemref idref="appendix_2.html" />
+    <itemref idref="appendix_3.html" />
+    <itemref idref="appendix_4.html" />
+    <itemref idref="fungal_metaphor_and_sem_assoc.html" />
+    <itemref idref="index_mushroom_names.html" />
+    <itemref idref="index_persons_and_places.html" linear="yes" />
+  </spine>
+  <guide />
+</package>

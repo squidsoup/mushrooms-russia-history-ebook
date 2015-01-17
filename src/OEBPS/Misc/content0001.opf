@@ -1,0 +1,148 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:role="aut" opf:file-as="Wasson, Valentina Pavlovna Wasson, R. Gordon">Valentina Pavlovna Wasson, R. Gordon Wasson</dc:creator>
+<dc:identifier id="uuid_id" opf:scheme="uuid">41f50c25-0538-4837-b6f2-d2296c1a55ac</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (2.12.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Pantheon Books, New York</dc:publisher>
+    <dc:date>2015-01-14T11:00:00+00:00</dc:date>
+    <meta content="Mushrooms, Russia and History" name="calibre:title_sort"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="Mushrooms, Russia and History" name="calibre:series"/>
+    <meta content="2015-01-14T08:59:10+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="0.8.2" name="Sigil version"/>
+  <dc:title>Mushrooms, Russia and History Volume 1</dc:title>
+<meta name="calibre:author_link_map" content="{&quot;Valentina Pavlovna Wasson, R. Gordon Wasson&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">23dcb8ad-b758-4eed-bdd4-2b3acbe0ec39</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Images/index-105_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="Images/index-107_1.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="Images/index-114_1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Images/index-119_1.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="Images/index-123_1.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="Images/index-127_1.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="Images/index-128_1.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="Images/index-130_1.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="Images/index-131_1.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="Images/index-132_1.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="Images/index-135_1.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="Images/index-145_1.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="Images/index-147_1.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="Images/index-153_1.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="Images/index-162_1.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="Images/index-168_1.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="Images/index-169_1.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="Images/index-176_1.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="Images/index-177_1.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="Images/index-177_2.jpg" id="id21" media-type="image/jpeg"/>
+    <item href="Images/index-177_3.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="Images/index-181_1.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="Images/index-182_1.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="Images/index-183_1.jpg" id="id25" media-type="image/jpeg"/>
+    <item href="Images/index-184_1.jpg" id="id26" media-type="image/jpeg"/>
+    <item href="Images/index-190_1.jpg" id="id27" media-type="image/jpeg"/>
+    <item href="Images/index-191_1.jpg" id="id28" media-type="image/jpeg"/>
+    <item href="Images/index-197_1.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="Images/index-1_1.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="Images/index-202_1.jpg" id="id31" media-type="image/jpeg"/>
+    <item href="Images/index-211_1.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="Images/index-215_1.jpg" id="id33" media-type="image/jpeg"/>
+    <item href="Images/index-21_1.jpg" id="id34" media-type="image/jpeg"/>
+    <item href="Images/index-228_1.jpg" id="id35" media-type="image/jpeg"/>
+    <item href="Images/index-232_1.jpg" id="id36" media-type="image/jpeg"/>
+    <item href="Images/index-234_1.jpg" id="id37" media-type="image/jpeg"/>
+    <item href="Images/index-239_1.jpg" id="id38" media-type="image/jpeg"/>
+    <item href="Images/index-23_1.jpg" id="id39" media-type="image/jpeg"/>
+    <item href="Images/index-253_1.jpg" id="id40" media-type="image/jpeg"/>
+    <item href="Images/index-254_1.jpg" id="id41" media-type="image/jpeg"/>
+    <item href="Images/index-260_1.jpg" id="id42" media-type="image/jpeg"/>
+    <item href="Images/index-277_1.jpg" id="id43" media-type="image/jpeg"/>
+    <item href="Images/index-278_1.jpg" id="id44" media-type="image/jpeg"/>
+    <item href="Images/index-279_1.jpg" id="id45" media-type="image/jpeg"/>
+    <item href="Images/index-287_1.jpg" id="id46" media-type="image/jpeg"/>
+    <item href="Images/index-287_2.jpg" id="id47" media-type="image/jpeg"/>
+    <item href="Images/index-2_1.jpg" id="id48" media-type="image/jpeg"/>
+    <item href="Images/index-2_2.jpg" id="id49" media-type="image/jpeg"/>
+    <item href="Images/index-33_1.jpg" id="id50" media-type="image/jpeg"/>
+    <item href="Images/index-39_1.jpg" id="id51" media-type="image/jpeg"/>
+    <item href="Images/index-46_1.jpg" id="id52" media-type="image/jpeg"/>
+    <item href="Images/index-58_1.jpg" id="id53" media-type="image/jpeg"/>
+    <item href="Images/index-62_1.jpg" id="id54" media-type="image/jpeg"/>
+    <item href="Images/index-68_1.jpg" id="id55" media-type="image/jpeg"/>
+    <item href="Images/index-77_1.jpg" id="id56" media-type="image/jpeg"/>
+    <item href="Images/index-87_1.jpg" id="id57" media-type="image/jpeg"/>
+    <item href="Images/index-93_1.jpg" id="id58" media-type="image/jpeg"/>
+    <item href="Images/index-95_1.jpg" id="id59" media-type="image/jpeg"/>
+    <item href="Text/title_page.html" id="title_page.html" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.html" id="copyright.html" media-type="application/xhtml+xml"/>
+    <item href="Text/contents.html" id="contents.html" media-type="application/xhtml+xml"/>
+    <item href="Text/plates_and_illustrations.html" id="plates_and_illustrations.html" media-type="application/xhtml+xml"/>
+    <item href="Text/preface.html" id="preface.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_1.html" id="chapter_1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_3.html" id="chapter_3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_4.html" id="chapter_4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_1.html" id="chapter_5_book_1.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_2.html" id="chapter_5_book_2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_3.html" id="chapter_5_book_3.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_4.html" id="chapter_5_book_4.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_5.html" id="chapter_5_book_5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_6.html" id="chapter_5_book_6.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_7.html" id="chapter_5_book_7.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_8.html" id="chapter_5_book_8.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_9.html" id="chapter_5_book_9.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_10.html" id="chapter_5_book_10.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_11.html" id="chapter_5_book_11.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_12.html" id="chapter_5_book_12.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5_book_13.html" id="chapter_5_book_13.html" media-type="application/xhtml+xml"/>
+    <item href="Text/colophon.html" id="colophon.html" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/chapter_2.html" id="chapter_2.html" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter_5.html" id="chapter_5.html" media-type="application/xhtml+xml"/>
+    <item href="Text/ebook_edition_notes.html" id="ebook_edition_notes.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title_page.html"/>
+    <itemref idref="copyright.html"/>
+    <itemref idref="contents.html"/>
+    <itemref idref="plates_and_illustrations.html"/>
+    <itemref idref="ebook_edition_notes.html"/>
+    <itemref idref="preface.html"/>
+    <itemref idref="chapter_1.html"/>
+    <itemref idref="chapter_2.html"/>
+    <itemref idref="chapter_3.html"/>
+    <itemref idref="chapter_4.html"/>
+    <itemref idref="chapter_5.html"/>
+    <itemref idref="chapter_5_book_1.html"/>
+    <itemref idref="chapter_5_book_2.html"/>
+    <itemref idref="chapter_5_book_3.html"/>
+    <itemref idref="chapter_5_book_4.html"/>
+    <itemref idref="chapter_5_book_5.html"/>
+    <itemref idref="chapter_5_book_6.html"/>
+    <itemref idref="chapter_5_book_7.html"/>
+    <itemref idref="chapter_5_book_8.html"/>
+    <itemref idref="chapter_5_book_9.html"/>
+    <itemref idref="chapter_5_book_10.html"/>
+    <itemref idref="chapter_5_book_11.html"/>
+    <itemref idref="chapter_5_book_12.html"/>
+    <itemref idref="chapter_5_book_13.html"/>
+    <itemref idref="colophon.html"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/title_page.html" title="Title Page" type="title-page"/>
+    <reference href="Text/copyright.html" title="Copyright Page" type="copyright-page"/>
+    <reference href="Text/contents.html" title="Table Of Contents" type="toc"/>
+    <reference href="Text/plates_and_illustrations.html" title="List Of Illustrations" type="loi"/>
+    <reference href="Text/preface.html" title="Preface" type="preface"/>
+    <reference href="Text/ebook_edition_notes.html" title="Notes" type="notes"/>
+    <reference href="Text/colophon.html" title="Colophon" type="colophon"/>
+  </guide>
+</package>

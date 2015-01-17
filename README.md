@@ -6,6 +6,13 @@ This repository contains a work in progress e-book edition of Valentina Pavlovna
 
 This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
 
+## Building
+To build run:
+
+    make epub
+
+Only epub is currently available.
+
 ## Current Progress
 
 ### Completed
