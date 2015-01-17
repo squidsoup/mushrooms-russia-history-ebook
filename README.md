@@ -1,5 +1,9 @@
 # Mushroom, Russia and History
 
+This repository contains a work in progress e-book edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. 
+
+## Notes on the E-book edition
+
 This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the New Alexandria Archive digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
 
 ## Current Progress
