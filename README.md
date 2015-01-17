@@ -23,8 +23,7 @@ Only epub is currently available.
 
 ### Todo
 
-* Explode epub
-* Add build script for both epub and mobi
+* Add support for building mobi
 
 ## Changes from the original text
 
