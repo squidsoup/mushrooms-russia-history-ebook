@@ -1,4 +1,4 @@
-# Mushroom, Russia and History
+# E-book: Mushrooms, Russia and History by V. P. Wasson & R. G. Wasson
 
 This repository contains a work in progress e-book edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. 
 
