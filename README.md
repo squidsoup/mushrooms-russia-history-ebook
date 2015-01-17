@@ -20,6 +20,7 @@ Only epub is currently available.
 * Chapter layout
 * Frontmatter
 * Preface
+* Chapter I
 
 ### Todo
 
