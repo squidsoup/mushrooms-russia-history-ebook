@@ -14,6 +14,11 @@ This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.
 * Frontmatter
 * Preface
 
+### Todo
+
+* Explode epub
+* Add build script for both epub and mobi
+
 ## Changes from the original text
 
 In order to adapt this work to e-book formats, a number of changes have been made:
