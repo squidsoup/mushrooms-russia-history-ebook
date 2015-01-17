@@ -4,11 +4,12 @@ This repository contains a work in progress e-book edition of Valentina Pavlovna
 
 ## Notes on the E-book edition
 
-This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the New Alexandria Archive digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
+This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
 
 ## Current Progress
 
 ### Completed
+
 * Chapter layout
 * Frontmatter
 * Preface
@@ -24,4 +25,8 @@ In order to adapt this work to e-book formats, a number of changes have been mad
 
 ## Changes from the New Alexandria Archive digital edition pdf
 
-Where possible I have endeavoured to edit and correct errors in the text which presumably resulted from errors in OCR. Unfortunately I do not possess, nor know of an original copy of Mushrooms, Russia and History available for reference in New Zealand to ensure the absolute parity of this edition with the original text. Please feel free to contact me with corrections.
+Where possible I have endeavoured to edit and correct errors in the text which presumably resulted from errors in OCR. Unfortunately I do not possess, nor know of an original copy of *Mushrooms, Russia and History* available for reference in New Zealand to ensure the absolute parity of this edition with the original text.
+
+## Contributing
+
+Please feel free to contact me with corrections. Pull requests are also welcome.
