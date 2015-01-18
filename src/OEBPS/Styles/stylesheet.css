@@ -5,51 +5,51 @@
     padding-left: 0;
     padding-right: 0;
     margin: 0 5pt
-    }
+}
 .calibre1 {
     display: block;
     margin: 1em 0
-    }
+}
 .calibre2 {
     height: auto;
     width: auto
-    }
+}
 .calibre3 {
     display: block;
     font-size: 1.375em;
     font-weight: bold;
     line-height: 1.2;
     margin: 0.83em 0
-    }
+}
 .calibre4 {
     font-style: italic
-    }
+}
 .calibre5 {
     font-weight: bold
-    }
+}
 .calibre6 {
     display: block
-    }
+}
 .sigilnotintoc {
     display: block;
     font-size: 1.125em;
     font-weight: bold;
     line-height: 1.2;
     margin: 1em 0
-    }
+}
 
 aside {
-	margin-bottom: 10px;
-	}
+    margin-bottom: 10px;
+}
 
 h1, h2 {
     text-align: center;
     line-height: 60px;
-	}
+}
 
 section {
-	clear:both;
-	margin-bottom: 30px;
+    clear:both;
+    margin-bottom: 30px;
 }
 
 span.initial {
@@ -58,26 +58,31 @@ span.initial {
     line-height: 0.8em;
     margin-right: 3pt;
     margin-bottom: -0.1em;
-	}
+}
+
 
 .footnotes {
-	margin-top: 30px;
-	border-top: 1px solid black;
-	}
+    margin-top: 30px;
+    border-top: 1px solid black;
+}
+
+.plate-list {
+    list-style-type: upper-roman;
+}
 
 .pull-right {
-	float: right;
-	}
+    float: right;
+}
 
 .pull-left {
-	float: left;
-	}
+    float: left;
+}
 
 .quote {
-	font-size: 0.9em;
-	margin-bottom: 30px;
-	}
+    font-size: 0.9em;
+    margin-bottom: 30px;
+}
 
 .quote cite {
-	padding-left: 50px;
-	}
+    padding-left: 50px;
+}
