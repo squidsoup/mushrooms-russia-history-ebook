@@ -1,6 +1,13 @@
+SRC_DIR = 'src'
+
 epub :
 	@echo "Building epub..."
-	zip -r mushrooms-russia-and-history.epub src/
+	cd $(SRC_DIR); \
+	zip -r ../mushrooms-russia-and-history.epub .
+
+check:	epub
+	@echo "Validating epub..."
+	epubcheck mushrooms-russia-and-history.epub
 
 mobi :  epub
 	@echo "Converting epub to mobi..."
