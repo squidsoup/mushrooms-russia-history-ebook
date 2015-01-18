@@ -4,7 +4,7 @@
     <dc:identifier id="epubmerge-id">epubmerge-uid-1421290032</dc:identifier>
     <dc:title>Mushrooms, Russia and History</dc:title>
     <dc:creator opf:role="aut">Valentina Pavlovna Wasson, R. Gordon Wasson</dc:creator>
-    <dc:contributor opf:role="bkp">epubmerge</dc:contributor>
+    <dc:contributor opf:role="bkp">Bayard Randel</dc:contributor>
     <dc:rights>Copyrights as per source stories</dc:rights>
     <dc:language>eng</dc:language>
     <dc:description>Anthology containing: Mushrooms, Russia and History Volume 1 Mushrooms, Russia and History Volume 2</dc:description>
@@ -15,7 +15,6 @@
   <manifest>
     <item href="Images/cover.jpg" id="coverimageid" media-type="image/jpeg" />
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Misc/content0001.opf" id="a1rootfile" media-type="origrootfile/xml" />
     <item href="Images/cover.jpeg" id="a1cover" media-type="image/jpeg" />
     <item href="Images/index-105_1.jpg" id="a1id2" media-type="image/jpeg" />
     <item href="Images/index-107_1.jpg" id="a1id3" media-type="image/jpeg" />
@@ -104,7 +103,6 @@
     <item href="Text/chapter_2.html" id="a1chapter_2.html" media-type="application/xhtml+xml" />
     <item href="Text/chapter_5.html" id="a1chapter_5.html" media-type="application/xhtml+xml" />
     <item href="Text/ebook_edition_notes.html" id="a1ebook_edition_notes.html" media-type="application/xhtml+xml" />
-    <item href="Misc/content0001.opf" id="a2rootfile" media-type="origrootfile/xml" />
     <item href="Images/cover.jpeg" id="a2cover" media-type="image/jpeg" />
     <item href="Images/index-101_1.jpg" id="a2id2" media-type="image/jpeg" />
     <item href="Images/index-102_1.jpg" id="a2id3" media-type="image/jpeg" />
