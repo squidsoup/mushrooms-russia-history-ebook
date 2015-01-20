@@ -60,6 +60,9 @@ span.initial {
     margin-bottom: -0.1em;
 }
 
+.illustration-list {
+    list-style-type: lower-roman;
+}
 
 .footnotes {
     margin-top: 30px;
