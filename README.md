@@ -38,13 +38,17 @@ To verify the epub, run:
 * Chapter layout
 * Some frontmatter
 * Preface
-* Chapter I
+* Chapter I-II
 
 ### Todo
 
-* List of Plates/Illustrations
-* Chapters II onwards
+* List of Plates/Illustrations need links
+* Chapters III onwards
 * Index
+
+## Contributing
+
+Please feel free to contact me with corrections. If you have access to the original texts, please see a list of errors that I need assistance with in [errors.md](errors.md).
 
 ## Changes from the original text
 
@@ -58,7 +62,3 @@ In order to adapt this work to e-book formats, a number of changes have been mad
 ## Changes from the New Alexandria Archive digital edition pdf
 
 Where possible I have endeavoured to edit and correct errors in the text which presumably resulted from errors in OCR. Unfortunately I do not possess, nor know of an original copy of *Mushrooms, Russia and History* available for reference in New Zealand to ensure the absolute parity of this edition with the original text.
-
-## Contributing
-
-Please feel free to contact me with corrections. Pull requests are also welcome.
