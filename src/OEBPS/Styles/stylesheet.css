@@ -81,11 +81,20 @@ span.initial {
     float: left;
 }
 
+.quote-header { 
+    float: right;
+}
+
 .quote {
     font-size: 0.9em;
     margin-bottom: 30px;
 }
 
 .quote cite {
+    font-style: italic;
     padding-left: 50px;
+}
+
+.main {
+    clear: both;
 }
