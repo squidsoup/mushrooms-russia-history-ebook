@@ -82,38 +82,158 @@
           </navLabel>
           <content src="Text/chapter_5_book_1.html" />
         </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>2. Basques and Slovaks</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_2.html" />
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>3. The Cripple, the Toad, and the Devil's Bread</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_3.html" />
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>4. The 'Pogge Cluster</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_4.html" />
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>5. Puff balls, Filth, and Vermin</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_5.html" />
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>6. The Sponge Cluster</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_6.html" />
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>7. Punk, Fire, and Love</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_7.html" />
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>8. The Gourd Cluster</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_8.html" />
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>9. From 'Panggo' to 'Pupik'</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_9.html" />
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>10. Mucus, Mushrooms, and Love</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_10.html" />
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>11. The Secrets of the Truffle</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_11.html" />
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>12. Gripau' and 'Crib'</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_12.html" />
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>13. The Flies in the Amanita</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_13.html" />
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>14. Teo-Nandcatl: the Sacred Mushrooms of the Nahua</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_14.html" />
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>15. Teo-Nandcatl: the Mushroom Agape</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_15.html" />
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>16. The Divine Mushroom: Archeological Clues in the Valley of Mexico</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_16.html" />
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>17. 'Gama no Koshikake and 'Hegba Mboddo'</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_17.html" />
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>18. The Anatomy of Mycophobia</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_18.html" />
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>19. Mushrooms in Art</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_19.html" />
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>20. Unscientific Nomenclature</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_20.html" />
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>21. Vale</text>
+          </navLabel>
+          <content src="Text/chapter_5_book_21.html" />
+        </navPoint>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-33" playOrder="33">
         <navLabel>
           <text>COLOPHON</text>
         </navLabel>
         <content src="Text/colophon.html" />
       </navPoint>
-      <navPoint id="navPoint-14" playOrder="14">
+      <navPoint id="navPoint-34" playOrder="34">
         <navLabel>
           <text>BIBLIOGRAPHICAL NOTES AND ACKNOWLEDGEMENTS</text>
         </navLabel>
         <content src="Text/biblio_notes_and_acknowledgements.html" />
       </navPoint>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-35" playOrder="35">
         <navLabel>
           <text>APPENDIX I: Mushrooms in Tolstoy's 'Anna Karenina</text>
         </navLabel>
         <content src="Text/appendix_1.html" />
       </navPoint>
-      <navPoint id="navPoint-16" playOrder="16">
+      <navPoint id="navPoint-36" playOrder="36">
         <navLabel>
           <text>APPENDIX II: Aksakov's 'Remarks and Observations of a Mushroom Hunter'</text>
         </navLabel>
         <content src="Text/appendix_2.html" />
       </navPoint>
-      <navPoint id="navPoint-17" playOrder="17">
+      <navPoint id="navPoint-37" playOrder="37">
         <navLabel>
           <text>APPENDIX III: Leuba's 'Hymn to the Morel'</text>
         </navLabel>
         <content src="Text/appendix_3.html" />
       </navPoint>
-      <navPoint id="navPoint-18" playOrder="18">
+      <navPoint id="navPoint-38" playOrder="38">
         <navLabel>
           <text>APPENDIX IV: Hallucinogenic Mushrooms: Early Mexican Sources</text>
         </navLabel>
