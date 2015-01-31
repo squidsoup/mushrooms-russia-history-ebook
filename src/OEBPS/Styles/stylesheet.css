@@ -99,3 +99,7 @@ span.initial {
 .main {
     clear: both;
 }
+
+.title-page {
+    text-align: center;
+}
