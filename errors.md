@@ -9,3 +9,5 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 * Those wars were like big-game hunting, stepped up another dimension. Of course there were civil wars also, back in the **lyth** centur[chpt 3, line 38]
 
 * in a soile &amp; aire much more temperate, yet commonly use furred boots and clokes **&gt;** [chpt 3, line 95]
+
+* Heraldic emblems did not come into use until about A.D. **noo** [chapter_5_book_3 line 79]
