@@ -11,3 +11,5 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 * in a soile &amp; aire much more temperate, yet commonly use furred boots and clokes **&gt;** [chpt 3, line 95]
 
 * Heraldic emblems did not come into use until about A.D. **noo** [chapter_5_book_3 line 79]
+
+*    In ancient Greek a kind of toad that was said to puff itself up to bursting and to exhale a poisonous breath was the **cpuaaXoc**, a word derived from **cpDasc**, meaning a bellows, a wind, a blast, a breath; and it is related to a Greek word for bladder and bubbl [chapter_5_book_4]
