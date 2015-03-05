@@ -228,6 +228,11 @@ span.initial {
     clear: both;
 }
 
+.main p:first-child {
+   text-indent: 0;
+}
+
+
 .title-page {
     text-align: center;
 }
