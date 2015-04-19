@@ -28,3 +28,6 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 
 * [sjgwombho as [line 51]
 *  distinguished Polish linguist Jan Otr^bski, [line 83]
+
+## Chapter 5 Book 7
+the Greek word for mushroom, P.UXYJ?, also means the <i>membmm virile [line 64]
