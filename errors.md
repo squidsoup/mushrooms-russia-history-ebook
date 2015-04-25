@@ -30,4 +30,5 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 *  distinguished Polish linguist Jan Otr^bski, [line 83]
 
 ## Chapter 5 Book 7
-the Greek word for mushroom, P.UXYJ?, also means the <i>membmm virile [line 64]
+* the Greek word for mushroom, **P.UXYJ?**, also means the <i>membmm virile [line 64]
+* The mountains of Kashmir produce great quantities of another mushroom, **kana-g"ch** [line 102]
