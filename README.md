@@ -38,13 +38,13 @@ To verify the epub, run:
 * Chapter layout
 * Some frontmatter
 * Preface
-* Chapter I-II
+* Chapter I-IV
 * Chapter V, Book 1, 7
 
 ### Todo
 
 * List of Plates/Illustrations need links
-* Chapters III onwards
+* Chapters V, most books
 * Index
 
 ## Contributing
