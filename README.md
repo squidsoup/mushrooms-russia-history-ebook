@@ -39,7 +39,7 @@ To verify the epub, run:
 * Some frontmatter
 * Preface
 * Chapter I-IV
-* Chapter V, Book 1, 7
+* Chapter V, Books 1, 2, 7
 
 ### Todo
 
