@@ -19,7 +19,7 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 ## Chapter 5, Book 3
 
 * Heraldic emblems did not come into use until about A.D. **noo** [chapter_5_book_3 line 79]
-
+* The same vowel change was to take place shortly afterwards in God&rsquo;s name: in the profanity of the iyth century &lsquo;God&rsquo; by a euphemistic mincing of the vowel became &lsquo;Gad&rsquo;.) [line 39]
 ## Chapter 5, Book 4
 
 * In ancient Greek a kind of toad that was said to puff itself up to bursting and to exhale a poisonous breath was the **cpuaaXoc**, a word derived from **cpDasc**, meaning a bellows, a wind, a blast, a breath; and it is related to a Greek word for bladder and bubbl
