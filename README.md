@@ -39,11 +39,12 @@ To verify the epub, run:
 * Some frontmatter
 * Preface
 * Chapter I-IV
-* Chapter V, Books 1, 2, 3, 4, 5, 7
+* Chapter V, Books 1, 2, 3, 4, 5, 6, 7
 
 ### Todo
 
 * List of Plates/Illustrations need links
+* Fix initials on books
 * Chapters V, most books
 * Index
 
