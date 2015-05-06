@@ -149,8 +149,8 @@ img {
 
 ul, ol, dl {
   margin: 1em 0 1em 0;
-  text-align: left; }
-
+  text-align: left;
+}
 li {
   font-family: "Palatino", "Times New Roman", Caecilia, serif;
   line-height: 1.5em;
@@ -235,4 +235,13 @@ span.initial {
 
 .title-page {
     text-align: center;
+}
+
+.mushroom-roots {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.two-column div {
+    margin-right: 50px;
 }

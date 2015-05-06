@@ -30,4 +30,9 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 * the Greek word for mushroom, **P.UXYJ?**, also means the <i>membmm virile [line 64]
 * The mountains of Kashmir produce great quantities of another mushroom, **kana-g"ch** [line 102]
 
-## Chapter 5 Book 8
+## Chapter 5 Book 9
+* They have a word for fungus,&nbsp;<i>can-pai,</i>&nbsp;of which the first element means 'tree'. **Is**&nbsp;<i>-pai</i>&nbsp;related to our Finnish words
+
+## Chapter 5 Book 10
+* derives from the Greek words for 'ointment', 'unguent': a|i^[jLa and ojjLvjy^a. [line 178, page 155]
+* and we discover its normal fungal meanings in [**ifoojc**;, semantically yoked with the <i>membrum virile</i> and a burnt lamp-wick, a word adapted from [**Au£a**, meaning &lsquo;mucus&rsquo; and also &lsquo;lamp-nozzle&rsquo;. [page 157]
