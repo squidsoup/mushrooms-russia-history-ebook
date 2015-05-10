@@ -20,14 +20,14 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 * In ancient Greek a kind of toad that was said to puff itself up to bursting and to exhale a poisonous breath was the **cpuaaXoc**, a word derived from **cpDasc**, meaning a bellows, a wind, a blast, a breath; and it is related to a Greek word for bladder and bubbl
 
 ## Chapter 5 Book 5
-* and probably behind the enigmatic <i>Bo-</i> of **B0f zsL**&rsquo;Ball&rsquo; in &lsquo;puffball&rsquo; [line 22]
+* and probably behind the enigmatic Bo- of **B0f zsL**&rsquo;Ball&rsquo; in &lsquo;puffball&rsquo; [line 22]
 
 ## Chapter 5 Book 6
 * [sjgwombho as [line 51]
 *  distinguished Polish linguist Jan Otr^bski, [line 83]
 
 ## Chapter 5 Book 7
-* the Greek word for mushroom, **P.UXYJ?**, also means the <i>membmm virile [line 64]
+* the Greek word for mushroom, **P.UXYJ?**, also means the membmm virile [line 64]
 * The mountains of Kashmir produce great quantities of another mushroom, **kana-g"ch** [line 102]
 
 ## Chapter 5 Book 9
@@ -36,3 +36,7 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 ## Chapter 5 Book 10
 * derives from the Greek words for 'ointment', 'unguent': a|i^[jLa and ojjLvjy^a. [line 178, page 155]
 * and we discover its normal fungal meanings in [**ifoojc**;, semantically yoked with the <i>membrum virile</i> and a burnt lamp-wick, a word adapted from [**Au£a**, meaning &lsquo;mucus&rsquo; and also &lsquo;lamp-nozzle&rsquo;. [page 157]
+
+## Chapter 5 Book 11
+*  where in various dialects of the Eskimo language we find the potato of the Andes called by names that reach straight back to the tuber of Pliny: kaltu:jilaq and kaltu:Jaq and kaltuvaq and kaltu:xaq? [page 171]
+* MISSING FOOTNOTE for "2. See L. L. Hammerich's paper on 'The Russian Stratum in Alaskan Eskimo', Slavic Word No. 3, Dec. 1954, published by The Linguistic Circle of New York, p. 409"
