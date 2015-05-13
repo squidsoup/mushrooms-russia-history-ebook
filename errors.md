@@ -46,3 +46,6 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 * Latin rubeta and the Greek **cppuvoc**; 
 * "As to^n&rsquo;fc, I have not the slightest doubt about its origin.
 * Max Vasmer in his new Russian etymological dictionary suggests a novel root **£01 grib** [page 188]
+
+## Book 13
+* like the other variants mentioned on pages ijSff [page 191]
