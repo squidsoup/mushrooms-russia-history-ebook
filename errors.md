@@ -49,3 +49,7 @@ With reference to the original text, the following errors (hi-lighted in bold) n
 
 ## Book 13
 * like the other variants mentioned on pages ijSff [page 191]
+
+## Book 14
+* ma$auacan nanacatl [page 228]
+* pea$6o, peya$6o [page 228]
