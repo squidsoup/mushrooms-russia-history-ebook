@@ -119,8 +119,6 @@ p {
 figure {
   /* These first 3 should center figures */
   padding: 1em;
-  background-color: #cccccc;
-  border: 1px solid black;
   text-align: center;
   overflow: auto;
 }
