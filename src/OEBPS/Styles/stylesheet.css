@@ -188,6 +188,14 @@ span.initial {
     margin-bottom: -0.1em;
 }
 
+.colophon {
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}
+
 .illustration-list {
     list-style-type: lower-roman;
 }
