@@ -28,9 +28,10 @@ table {
 /* end reset */
 
 @page {
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
 
 .sigilnotintoc {
     display: block;
