@@ -96,7 +96,6 @@
     <item href="Text/chapter_5_book_12.html" id="a1chapter_5_book_12.html" media-type="application/xhtml+xml" />
     <item href="Text/chapter_5_book_13.html" id="a1chapter_5_book_13.html" media-type="application/xhtml+xml" />
     <item href="Text/colophon.html" id="a1colophon.html" media-type="application/xhtml+xml" />
-    <item href="Styles/page_styles.css" id="a1page_css" media-type="text/css" />
     <item href="Styles/stylesheet.css" id="a1css" media-type="text/css" />
     <item href="Text/cover.xhtml" id="a1cover.xhtml" media-type="application/xhtml+xml" />
     <item href="1/OEBPS/toc.ncx" id="a1ncx" media-type="origtocncx/xml" />
@@ -205,7 +204,6 @@
     <item href="Text/chapter_5_book_20.html" id="a2chapter_5_book_20.html" media-type="application/xhtml+xml" />
     <item href="Text/chapter_5_book_21.html" id="a2chapter_5_book_21.html" media-type="application/xhtml+xml" />
     <item href="Text/index_persons_and_places.html" id="index_persons_and_places.html" media-type="application/xhtml+xml" />
-    <item href="Styles/page_styles.css" id="a2page_css" media-type="text/css" />
     <item href="Styles/stylesheet.css" id="a2css" media-type="text/css" />
     <item href="2/OEBPS/toc.ncx" id="a2ncx" media-type="origtocncx/xml" />
     <item href="Text/index_mushroom_names.html" id="index_mushroom_names.html" media-type="application/xhtml+xml" />
