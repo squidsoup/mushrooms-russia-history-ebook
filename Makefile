@@ -10,7 +10,7 @@ epub :
 
 check:	epub
 	@echo "Validating epub..."
-	epubcheck $(EPUB_OUT_FILE)
+	epubcheck $(EPUB_OUT_FILE) -mode opf -v 3.0
 
 mobi :  epub
 	@echo "Converting epub to mobi..."
