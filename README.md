@@ -40,13 +40,12 @@ To verify the epub, run:
 * Preface
 * Biblio
 * Chapter I-IV
-* Chapter V, Books 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+* Chapter V, Books 1-20
 
 ### Todo
 
 * List of Plates/Illustrations need links
-* Fix initials on books
-* Books 11-21
+* Books 21
 * Index
 
 ## Contributing
