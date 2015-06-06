@@ -44,6 +44,7 @@ To verify the epub, run:
 
 ### Todo
 
+* Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
 * List of Plates/Illustrations need links
 * Index
 
