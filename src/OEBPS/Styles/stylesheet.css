@@ -207,6 +207,17 @@ span.initial {
     list-style-type: lower-roman;
 }
 
+.indicies {
+    -webkit-column-count: 2;
+    -webkit-column-rule: 0px;
+    column-count: 2;
+    column-rule: 0px;
+}
+
+.indicies ul {
+    list-style-type: none;
+}
+
 .footnotes {
     margin-top: 30px;
     border-top: 1px solid black;

@@ -239,6 +239,24 @@
         </navLabel>
         <content src="Text/appendix_4.html" />
       </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>INDEX OF FUNGAL METAPHORS AND SEMANTIC ASSOCIATIONS</text>
+        </navLabel>
+        <content src="Text/fungal_metaphor_and_sem_assoc.html" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>INDEX OF MUSHROOM NAMES</text>
+        </navLabel>
+        <content src="Text/index_mushroom_names.html" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>INDEX OF PERSONS AND PLACES</text>
+        </navLabel>
+        <content src="Text/index_persons_and_places.html" />
+      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
