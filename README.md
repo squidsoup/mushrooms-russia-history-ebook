@@ -46,8 +46,10 @@ To verify the epub, run:
 
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
 * List of Plates/Illustrations need links
-* Index
-
+* Indicies
+  * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
+  * Indicies require links to anchors within the text.
+  
 ## Contributing
 
 Please feel free to contact me with corrections. If you have access to the original texts, please see a list of errors that I need assistance with in [errors.md](errors.md). If you are in possession of an original edition of *Mushrooms, Russia and History*, I would be very grateful to hear from you and any assistance you could provide to ensure this e-book edition is as accurate as possible.
