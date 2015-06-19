@@ -91,6 +91,26 @@ h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
     font-style: italic;
 }
 
+.title-page h1 {
+    font-size: 3.5em;
+    margin-bottom: 2em;
+    text-transform: uppercase;
+}
+
+.title-page h2 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+.title-page, .title-page p {
+   text-align: center;
+}
+
+.title-page #publisher {
+    font-size: 1.3em;
+    margin-top: 2em;
+}
+
 blockquote {
 
     display: inline-block;
@@ -260,11 +280,6 @@ span.initial {
 
 .main p:first-child {
    text-indent: 0;
-}
-
-
-.title-page {
-    text-align: center;
 }
 
 .mushroom-roots {
