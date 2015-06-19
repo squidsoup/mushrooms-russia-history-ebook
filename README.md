@@ -49,6 +49,8 @@ To verify the epub, run:
 * Indicies
   * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
   * Indicies require links to anchors within the text.
+* Migrate to epub3 toc.
+* Add copyright page.  
   
 ## Contributing
 

@@ -21,241 +21,240 @@
         <navLabel>
           <text>TITLE PAGE</text>
         </navLabel>
-        <content src="Text/title_page.html" />
+        <content src="Text/title_page.xhtml" />
       </navPoint>
       <navPoint id="navPoint-3" playOrder="3">
         <navLabel>
           <text>CONTENTS</text>
         </navLabel>
-        <content src="Text/contents.html" />
+        <content src="Text/contents.xhtml" />
       </navPoint>
       <navPoint id="navPoint-4" playOrder="4">
         <navLabel>
           <text>LIST OF PLATES &amp; ILLUSTRATIONS</text>
         </navLabel>
-        <content src="Text/plates_and_illustrations.html" />
+        <content src="Text/plates_and_illustrations.xhtml" />
       </navPoint>
       <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
           <text>E-BOOK EDITION NOTES</text>
         </navLabel>
-        <content src="Text/ebook_edition_notes.html" />
+        <content src="Text/ebook_edition_notes.xhtml" />
       </navPoint>
       <navPoint id="navPoint-6" playOrder="6">
         <navLabel>
           <text>PREFACE</text>
         </navLabel>
-        <content src="Text/preface.html" />
+        <content src="Text/preface.xhtml" />
       </navPoint>
       <navPoint id="navPoint-7" playOrder="7">
         <navLabel>
           <text>I. MUSHROOMS AND THE RUSSIANS</text>
         </navLabel>
-        <content src="Text/chapter_1.html" />
+        <content src="Text/chapter_1.xhtml" />
       </navPoint>
       <navPoint id="navPoint-8" playOrder="8">
         <navLabel>
           <text>II. MUSHROOMS AND THE ENGLISH</text>
         </navLabel>
-        <content src="Text/chapter_2.html" />
+        <content src="Text/chapter_2.xhtml" />
       </navPoint>
       <navPoint id="navPoint-9" playOrder="9">
         <navLabel>
           <text>III. MUSHROOMS AND HISTORY</text>
         </navLabel>
-        <content src="Text/chapter_3.html" />
+        <content src="Text/chapter_3.xhtml" />
       </navPoint>
       <navPoint id="navPoint-10" playOrder="10">
         <navLabel>
           <text>IV. MUSHROOMS FOR MURDERERS</text>
         </navLabel>
-        <content src="Text/chapter_4.html" />
+        <content src="Text/chapter_4.xhtml" />
       </navPoint>
       <navPoint id="navPoint-11" playOrder="11">
         <navLabel>
           <text>V. THE RIDDLE OF THE TOAD AND OTHER SECRETS MUSHROOMIC</text>
         </navLabel>
-        <content src="Text/chapter_5.html" />
+        <content src="Text/chapter_5.xhtml" />
         <navPoint id="navPoint-12" playOrder="12">
           <navLabel>
             <text>1. The Venomous Toad</text>
           </navLabel>
-          <content src="Text/chapter_5_book_1.html" />
+          <content src="Text/chapter_5_book_1.xhtml" />
         </navPoint>
         <navPoint id="navPoint-13" playOrder="13">
           <navLabel>
             <text>2. Basques and Slovaks</text>
           </navLabel>
-          <content src="Text/chapter_5_book_2.html" />
+          <content src="Text/chapter_5_book_2.xhtml" />
         </navPoint>
         <navPoint id="navPoint-14" playOrder="14">
           <navLabel>
             <text>3. The Cripple, the Toad, and the Devil's Bread</text>
           </navLabel>
-          <content src="Text/chapter_5_book_3.html" />
+          <content src="Text/chapter_5_book_3.xhtml" />
         </navPoint>
         <navPoint id="navPoint-15" playOrder="15">
           <navLabel>
             <text>4. The 'Pogge Cluster</text>
           </navLabel>
-          <content src="Text/chapter_5_book_4.html" />
+          <content src="Text/chapter_5_book_4.xhtml" />
         </navPoint>
         <navPoint id="navPoint-16" playOrder="16">
           <navLabel>
             <text>5. Puff balls, Filth, and Vermin</text>
           </navLabel>
-          <content src="Text/chapter_5_book_5.html" />
+          <content src="Text/chapter_5_book_5.xhtml" />
         </navPoint>
         <navPoint id="navPoint-17" playOrder="17">
           <navLabel>
             <text>6. The Sponge Cluster</text>
           </navLabel>
-          <content src="Text/chapter_5_book_6.html" />
+          <content src="Text/chapter_5_book_6.xhtml" />
         </navPoint>
         <navPoint id="navPoint-18" playOrder="18">
           <navLabel>
             <text>7. Punk, Fire, and Love</text>
           </navLabel>
-          <content src="Text/chapter_5_book_7.html" />
+          <content src="Text/chapter_5_book_7.xhtml" />
         </navPoint>
         <navPoint id="navPoint-19" playOrder="19">
           <navLabel>
             <text>8. The Gourd Cluster</text>
           </navLabel>
-          <content src="Text/chapter_5_book_8.html" />
+          <content src="Text/chapter_5_book_8.xhtml" />
         </navPoint>
         <navPoint id="navPoint-20" playOrder="20">
           <navLabel>
             <text>9. From 'Panggo' to 'Pupik'</text>
           </navLabel>
-          <content src="Text/chapter_5_book_9.html" />
+          <content src="Text/chapter_5_book_9.xhtml" />
         </navPoint>
         <navPoint id="navPoint-21" playOrder="21">
           <navLabel>
             <text>10. Mucus, Mushrooms, and Love</text>
           </navLabel>
-          <content src="Text/chapter_5_book_10.html" />
+          <content src="Text/chapter_5_book_10.xhtml" />
         </navPoint>
         <navPoint id="navPoint-22" playOrder="22">
           <navLabel>
             <text>11. The Secrets of the Truffle</text>
           </navLabel>
-          <content src="Text/chapter_5_book_11.html" />
+          <content src="Text/chapter_5_book_11.xhtml" />
         </navPoint>
         <navPoint id="navPoint-23" playOrder="23">
           <navLabel>
             <text>12. Gripau' and 'Crib'</text>
           </navLabel>
-          <content src="Text/chapter_5_book_12.html" />
+          <content src="Text/chapter_5_book_12.xhtml" />
         </navPoint>
         <navPoint id="navPoint-24" playOrder="24">
           <navLabel>
             <text>13. The Flies in the Amanita</text>
           </navLabel>
-          <content src="Text/chapter_5_book_13.html" />
+          <content src="Text/chapter_5_book_13.xhtml" />
         </navPoint>
         <navPoint id="navPoint-25" playOrder="25">
           <navLabel>
             <text>14. Teo-Nandcatl: the Sacred Mushrooms of the Nahua</text>
           </navLabel>
-          <content src="Text/chapter_5_book_14.html" />
+          <content src="Text/chapter_5_book_14.xhtml" />
         </navPoint>
         <navPoint id="navPoint-26" playOrder="26">
           <navLabel>
             <text>15. Teo-Nandcatl: the Mushroom Agape</text>
           </navLabel>
-          <content src="Text/chapter_5_book_15.html" />
+          <content src="Text/chapter_5_book_15.xhtml" />
         </navPoint>
         <navPoint id="navPoint-27" playOrder="27">
           <navLabel>
             <text>16. The Divine Mushroom: Archeological Clues in the Valley of Mexico</text>
           </navLabel>
-          <content src="Text/chapter_5_book_16.html" />
+          <content src="Text/chapter_5_book_16.xhtml" />
         </navPoint>
         <navPoint id="navPoint-28" playOrder="28">
           <navLabel>
             <text>17. 'Gama no Koshikake and 'Hegba Mboddo'</text>
           </navLabel>
-          <content src="Text/chapter_5_book_17.html" />
+          <content src="Text/chapter_5_book_17.xhtml" />
         </navPoint>
         <navPoint id="navPoint-29" playOrder="29">
           <navLabel>
             <text>18. The Anatomy of Mycophobia</text>
           </navLabel>
-          <content src="Text/chapter_5_book_18.html" />
+          <content src="Text/chapter_5_book_18.xhtml" />
         </navPoint>
         <navPoint id="navPoint-30" playOrder="30">
           <navLabel>
             <text>19. Mushrooms in Art</text>
           </navLabel>
-          <content src="Text/chapter_5_book_19.html" />
+          <content src="Text/chapter_5_book_19.xhtml" />
         </navPoint>
         <navPoint id="navPoint-31" playOrder="31">
           <navLabel>
             <text>20. Unscientific Nomenclature</text>
           </navLabel>
-          <content src="Text/chapter_5_book_20.html" />
+          <content src="Text/chapter_5_book_20.xhtml" />
         </navPoint>
         <navPoint id="navPoint-32" playOrder="32">
           <navLabel>
             <text>21. Vale</text>
           </navLabel>
-          <content src="Text/chapter_5_book_21.html" />
+          <content src="Text/chapter_5_book_21.xhtml" />
         </navPoint>
-      </navPoint>
-      <navPoint id="navPoint-33" playOrder="33">
+        <navPoint id="navPoint-33" playOrder="33">
         <navLabel>
           <text>COLOPHON</text>
         </navLabel>
-        <content src="Text/colophon.html" />
-      </navPoint>
-      <navPoint id="navPoint-34" playOrder="34">
+        <content src="Text/colophon.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
         <navLabel>
           <text>BIBLIOGRAPHICAL NOTES AND ACKNOWLEDGEMENTS</text>
         </navLabel>
-        <content src="Text/biblio_notes_and_acknowledgements.html" />
+        <content src="Text/biblio_notes_and_acknowledgements.xhtml" />
       </navPoint>
       <navPoint id="navPoint-35" playOrder="35">
         <navLabel>
           <text>APPENDIX I: Mushrooms in Tolstoy's 'Anna Karenina</text>
         </navLabel>
-        <content src="Text/appendix_1.html" />
+        <content src="Text/appendix_1.xhtml" />
       </navPoint>
       <navPoint id="navPoint-36" playOrder="36">
         <navLabel>
           <text>APPENDIX II: Aksakov's 'Remarks and Observations of a Mushroom Hunter'</text>
         </navLabel>
-        <content src="Text/appendix_2.html" />
+        <content src="Text/appendix_2.xhtml" />
       </navPoint>
       <navPoint id="navPoint-37" playOrder="37">
         <navLabel>
           <text>APPENDIX III: Leuba's 'Hymn to the Morel'</text>
         </navLabel>
-        <content src="Text/appendix_3.html" />
+        <content src="Text/appendix_3.xhtml" />
       </navPoint>
       <navPoint id="navPoint-38" playOrder="38">
         <navLabel>
           <text>APPENDIX IV: Hallucinogenic Mushrooms: Early Mexican Sources</text>
         </navLabel>
-        <content src="Text/appendix_4.html" />
+        <content src="Text/appendix_4.xhtml" />
       </navPoint>
       <navPoint id="navPoint-39" playOrder="39">
         <navLabel>
           <text>INDEX OF FUNGAL METAPHORS AND SEMANTIC ASSOCIATIONS</text>
         </navLabel>
-        <content src="Text/fungal_metaphor_and_sem_assoc.html" />
+        <content src="Text/fungal_metaphor_and_sem_assoc.xhtml" />
       </navPoint>
       <navPoint id="navPoint-40" playOrder="40">
         <navLabel>
           <text>INDEX OF MUSHROOM NAMES</text>
         </navLabel>
-        <content src="Text/index_mushroom_names.html" />
+        <content src="Text/index_mushroom_names.xhtml" />
       </navPoint>
       <navPoint id="navPoint-41" playOrder="41">
         <navLabel>
           <text>INDEX OF PERSONS AND PLACES</text>
         </navLabel>
-        <content src="Text/index_persons_and_places.html" />
+        <content src="Text/index_persons_and_places.xhtml" />
       </navPoint>
     </navPoint>
   </navMap>
