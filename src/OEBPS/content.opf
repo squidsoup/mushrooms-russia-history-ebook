@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="epubmerge-id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" version="3.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="epubmerge-id">epubmerge-uid-1421290032</dc:identifier>
     <dc:title>Mushrooms, Russia and History</dc:title>
@@ -206,6 +206,7 @@
     <item href="Images/index-85_1.jpg" id="a2id91" media-type="image/jpeg" />
     <item href="Images/index-88_1.jpg" id="a2id92" media-type="image/jpeg" />
     <item href="Images/index-97_1.jpg" id="a2id93" media-type="image/jpeg" />
+    <item href="Images/image.NE51XX.png" id="a2id94" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="a1cover.xhtml" linear="yes" />
