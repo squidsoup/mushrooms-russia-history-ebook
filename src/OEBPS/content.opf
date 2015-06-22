@@ -56,6 +56,49 @@
     <item href="Text/copyright.xhtml" id="a1copyright.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/colophon.xhtml" id="a1colophon.xhtml" media-type="application/xhtml+xml" />
     <item href="Images/cover.jpeg" id="a1cover" media-type="image/jpeg" />
+    <item href="Images/index-1_2.jpg" id="a1id30" media-type="image/jpeg" />
+    <item href="Images/index-2_1.jpg" id="a2id67" media-type="image/jpeg" />
+    <item href="Images/index-2_2.jpg" id="a2id68" media-type="image/jpeg" />
+    <item href="Images/index-33_1.jpg" id="a1id50" media-type="image/jpeg" />
+    <item href="Images/index-39_1.jpg" id="a1id51" media-type="image/jpeg" />
+    <item href="Images/index-58_2.jpg" id="a1id53" media-type="image/jpeg" />
+    <item href="Images/index-62_1.jpg" id="a1id54" media-type="image/jpeg" />
+    <item href="Images/index-68_1.jpg" id="a1id55" media-type="image/jpeg" />
+    <item href="Images/index-77_1.jpg" id="a1id56" media-type="image/jpeg" />
+    <item href="Images/index-87_1.jpg" id="a1id57" media-type="image/jpeg" />
+    <item href="Images/index-93_1.jpg" id="a1id58" media-type="image/jpeg" />
+    <item href="Images/index-95_1.jpg" id="a1id59" media-type="image/jpeg" />
+    <item href="Images/index-30_1.jpg" id="a2id69" media-type="image/jpeg" />
+    <item href="Images/index-31_1.jpg" id="a2id70" media-type="image/jpeg" />
+    <item href="Images/index-31_2.jpg" id="a2id71" media-type="image/jpeg" />
+    <item href="Images/index-40_1.jpg" id="a2id72" media-type="image/jpeg" />
+    <item href="Images/index-45_1.jpg" id="a2id73" media-type="image/jpeg" />
+    <item href="Images/index-46_1.jpg" id="a1id52" media-type="image/jpeg" />
+    <item href="Images/index-52_1.jpg" id="a2id74" media-type="image/jpeg" />
+    <item href="Images/index-54_1.jpg" id="a2id75" media-type="image/jpeg" />
+    <item href="Images/index-56_1.jpg" id="a2id76" media-type="image/jpeg" />
+    <item href="Images/index-58_2.jpg" id="a2id77" media-type="image/jpeg" />
+    <item href="Images/index-60_1.jpg" id="a2id78" media-type="image/jpeg" />
+    <item href="Images/index-61_1.jpg" id="a2id79" media-type="image/jpeg" />
+    <item href="Images/index-62_1.jpg" id="a2id80" media-type="image/jpeg" />
+    <item href="Images/index-62_3.jpg" id="a2id81" media-type="image/jpeg" />
+    <item href="Images/index-64_1.jpg" id="a2id82" media-type="image/jpeg" />
+    <item href="Images/index-64_2.jpg" id="a2id83" media-type="image/jpeg" />
+    <item href="Images/index-65_1.jpg" id="a2id84" media-type="image/jpeg" />
+    <item href="Images/index-66_1.jpg" id="a2id85" media-type="image/jpeg" />
+    <item href="Images/index-78_1.jpg" id="a2id86" media-type="image/jpeg" />
+    <item href="Images/index-79_1.jpg" id="a2id87" media-type="image/jpeg" />
+    <item href="Images/index-82_1.jpg" id="a2id88" media-type="image/jpeg" />
+    <item href="Images/index-83_1.jpg" id="a2id89" media-type="image/jpeg" />
+    <item href="Images/index-84_1.jpg" id="a2id90" media-type="image/jpeg" />
+    <item href="Images/index-85_1.jpg" id="a2id91" media-type="image/jpeg" />
+    <item href="Images/index-88_1.jpg" id="a2id92" media-type="image/jpeg" />
+    <item href="Images/index-97_1.jpg" id="a2id93" media-type="image/jpeg" />
+    <item href="Images/index-101_1.jpg" id="a2id2" media-type="image/jpeg" />
+    <item href="Images/index-102_1.jpg" id="a2id3" media-type="image/jpeg" />
+    <item href="Images/index-103_1.jpg" id="a2id4" media-type="image/jpeg" />
+    <item href="Images/index-104_1.jpg" id="a2id5" media-type="image/jpeg" />
+    <item href="Images/index-111_1.jpg" id="a2id6" media-type="image/jpeg" />
     <item href="Images/index-105_1.jpg" id="a1id2" media-type="image/jpeg" />
     <item href="Images/index-107_1.jpg" id="a1id3" media-type="image/jpeg" />
     <item href="Images/index-114_1.jpg" id="a1id4" media-type="image/jpeg" />
@@ -84,7 +127,6 @@
     <item href="Images/index-190_2.jpg" id="a1id27" media-type="image/jpeg" />
     <item href="Images/index-191_1.jpg" id="a1id28" media-type="image/jpeg" />
     <item href="Images/index-197_2.jpg" id="a1id29" media-type="image/jpeg" />
-    <item href="Images/index-1_2.jpg" id="a1id30" media-type="image/jpeg" />
     <item href="Images/index-202_2.jpg" id="a1id31" media-type="image/jpeg" />
     <item href="Images/index-211_1.jpg" id="a1id32" media-type="image/jpeg" />
     <item href="Images/index-215_1.jpg" id="a1id33" media-type="image/jpeg" />
@@ -104,32 +146,14 @@
     <item href="Images/index-287_2.jpg" id="a1id47" media-type="image/jpeg" />
     <item href="Images/index-2_1.jpg" id="a1id48" media-type="image/jpeg" />
     <item href="Images/index-2_2.jpg" id="a1id49" media-type="image/jpeg" />
-    <item href="Images/index-33_1.jpg" id="a1id50" media-type="image/jpeg" />
-    <item href="Images/index-39_1.jpg" id="a1id51" media-type="image/jpeg" />
-    <item href="Images/index-46_1.jpg" id="a1id52" media-type="image/jpeg" />
-    <item href="Images/index-58_2.jpg" id="a1id53" media-type="image/jpeg" />
-    <item href="Images/index-62_1.jpg" id="a1id54" media-type="image/jpeg" />
-    <item href="Images/index-68_1.jpg" id="a1id55" media-type="image/jpeg" />
-    <item href="Images/index-77_1.jpg" id="a1id56" media-type="image/jpeg" />
-    <item href="Images/index-87_1.jpg" id="a1id57" media-type="image/jpeg" />
-    <item href="Images/index-93_1.jpg" id="a1id58" media-type="image/jpeg" />
-    <item href="Images/index-95_1.jpg" id="a1id59" media-type="image/jpeg" />
-    <item href="Images/index-101_1.jpg" id="a2id2" media-type="image/jpeg" />
-    <item href="Images/index-102_1.jpg" id="a2id3" media-type="image/jpeg" />
-    <item href="Images/index-103_1.jpg" id="a2id4" media-type="image/jpeg" />
-    <item href="Images/index-104_1.jpg" id="a2id5" media-type="image/jpeg" />
-    <item href="Images/index-111_1.jpg" id="a2id6" media-type="image/jpeg" />
     <item href="Images/index-11_1.jpg" id="a2id7" media-type="image/jpeg" />
     <item href="Images/index-124_1.jpg" id="a2id8" media-type="image/jpeg" />
-    <item href="Images/index-128_1.jpg" id="a2id9" media-type="image/jpeg" />
-    <item href="Images/index-132_1.jpg" id="a2id10" media-type="image/jpeg" />
     <item href="Images/index-132_3.jpg" id="a2id11" media-type="image/jpeg" />
     <item href="Images/index-135_1.jpg" id="a2id12" media-type="image/jpeg" />
     <item href="Images/index-136_1.jpg" id="a2id13" media-type="image/jpeg" />
     <item href="Images/index-137_1.jpg" id="a2id14" media-type="image/jpeg" />
     <item href="Images/index-140_1.jpg" id="a2id15" media-type="image/jpeg" />
     <item href="Images/index-143_1.jpg" id="a2id16" media-type="image/jpeg" />
-    <item href="Images/index-145_2.jpg" id="a2id17" media-type="image/jpeg" />
     <item href="Images/index-146_1.jpg" id="a2id18" media-type="image/jpeg" />
     <item href="Images/index-147_2.jpg" id="a2id19" media-type="image/jpeg" />
     <item href="Images/index-147_3.jpg" id="a2id20" media-type="image/jpeg" />
@@ -179,38 +203,12 @@
     <item href="Images/index-289_7.jpg" id="a2id64" media-type="image/jpeg" />
     <item href="Images/index-290_1.jpg" id="a2id65" media-type="image/jpeg" />
     <item href="Images/index-291_1.jpg" id="a2id66" media-type="image/jpeg" />
-    <item href="Images/index-2_1.jpg" id="a2id67" media-type="image/jpeg" />
-    <item href="Images/index-2_2.jpg" id="a2id68" media-type="image/jpeg" />
-    <item href="Images/index-30_1.jpg" id="a2id69" media-type="image/jpeg" />
-    <item href="Images/index-31_1.jpg" id="a2id70" media-type="image/jpeg" />
-    <item href="Images/index-31_2.jpg" id="a2id71" media-type="image/jpeg" />
-    <item href="Images/index-40_1.jpg" id="a2id72" media-type="image/jpeg" />
-    <item href="Images/index-45_1.jpg" id="a2id73" media-type="image/jpeg" />
-    <item href="Images/index-52_1.jpg" id="a2id74" media-type="image/jpeg" />
-    <item href="Images/index-54_1.jpg" id="a2id75" media-type="image/jpeg" />
-    <item href="Images/index-56_1.jpg" id="a2id76" media-type="image/jpeg" />
-    <item href="Images/index-58_2.jpg" id="a2id77" media-type="image/jpeg" />
-    <item href="Images/index-60_1.jpg" id="a2id78" media-type="image/jpeg" />
-    <item href="Images/index-61_1.jpg" id="a2id79" media-type="image/jpeg" />
-    <item href="Images/index-62_1.jpg" id="a2id80" media-type="image/jpeg" />
-    <item href="Images/index-62_3.jpg" id="a2id81" media-type="image/jpeg" />
-    <item href="Images/index-64_1.jpg" id="a2id82" media-type="image/jpeg" />
-    <item href="Images/index-64_2.jpg" id="a2id83" media-type="image/jpeg" />
-    <item href="Images/index-65_1.jpg" id="a2id84" media-type="image/jpeg" />
-    <item href="Images/index-66_1.jpg" id="a2id85" media-type="image/jpeg" />
-    <item href="Images/index-78_1.jpg" id="a2id86" media-type="image/jpeg" />
-    <item href="Images/index-79_1.jpg" id="a2id87" media-type="image/jpeg" />
-    <item href="Images/index-82_1.jpg" id="a2id88" media-type="image/jpeg" />
-    <item href="Images/index-83_1.jpg" id="a2id89" media-type="image/jpeg" />
-    <item href="Images/index-84_1.jpg" id="a2id90" media-type="image/jpeg" />
-    <item href="Images/index-85_1.jpg" id="a2id91" media-type="image/jpeg" />
-    <item href="Images/index-88_1.jpg" id="a2id92" media-type="image/jpeg" />
-    <item href="Images/index-97_1.jpg" id="a2id93" media-type="image/jpeg" />
-    <item href="Images/image.NE51XX.png" id="a2id94" media-type="image/jpeg" />
+    <item href="Images/image.NE51XX.png" id="a2id94" media-type="image/png" />
   </manifest>
-  <spine toc="ncx">
-    <itemref idref="a1cover.xhtml" linear="yes" />
+  <spine>
+    <itemref idref="a1cover.xhtml" linear="no" />
     <itemref idref="a1title_page.xhtml" linear="yes" />
+    <itemref idref="toc" linear="yes" />
     <itemref idref="a1plates_and_illustrations.xhtml" linear="yes" />
     <itemref idref="a1ebook_edition_notes.xhtml" linear="yes" />
     <itemref idref="a1preface.xhtml" linear="yes" />
