@@ -6,7 +6,8 @@ all : mobi
 epub :
 	@echo "Building epub..."
 	cd $(SRC_DIR); \
-	zip -r ../$(EPUB_OUT_FILE) . 
+	zip -0 ../$(EPUB_OUT_FILE) mimetype; \
+	zip -9 -r ../$(EPUB_OUT_FILE) META-INF OEBPS
 
 check:	epub
 	@echo "Validating epub..."
