@@ -35,22 +35,18 @@ To verify the epub, run:
 
 ### Completed
 
-* Chapter layout
-* Some frontmatter
+* Frontmatter
 * Preface
 * Biblio
-* Chapter I-IV
-* Chapter V, Books 1-21
+* All Chapters
 
 ### Todo
 
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
-* List of Plates/Illustrations need links
+* List of Illustrations need links
 * Indicies
   * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
   * Indicies require links to anchors within the text.
-* Migrate to epub3 toc.
-* Add copyright page.  
   
 ## Contributing
 
