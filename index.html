@@ -1,34 +1,25 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta charset="UTF-8">
     <title>Mushrooms-russia-history-ebook by squidsoup</title>
-
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>Mushrooms-russia-history-ebook</h1>
-        <p>E-book edition of Valentina Pavlovna Wasson &amp; R. Wasson&#39;s Mushrooms, Russia and History (1957)</p>
+    <section class="page-header">
+      <h1 class="project-name">Mushrooms-russia-history-ebook</h1>
+      <h2 class="project-tagline">E-book edition of Valentina Pavlovna Wasson &amp; R. Wasson&#39;s Mushrooms, Russia and History (1957)</h2>
+      <a href="https://github.com/squidsoup/mushrooms-russia-history-ebook" class="btn">View on GitHub</a>
+      <a href="https://github.com/squidsoup/mushrooms-russia-history-ebook/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/squidsoup/mushrooms-russia-history-ebook/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-        <p class="view"><a href="https://github.com/squidsoup/mushrooms-russia-history-ebook">View the Project on GitHub <small>squidsoup/mushrooms-russia-history-ebook</small></a></p>
-
-
-        <ul>
-          <li><a href="https://github.com/squidsoup/mushrooms-russia-history-ebook/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/squidsoup/mushrooms-russia-history-ebook/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/squidsoup/mushrooms-russia-history-ebook">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h1>
+    <section class="main-content">
+      <h1>
 <a id="e-book-mushrooms-russia-and-history-by-v-p-wasson--r-g-wasson" class="anchor" href="#e-book-mushrooms-russia-and-history-by-v-p-wasson--r-g-wasson" aria-hidden="true"><span class="octicon octicon-link"></span></a>E-book: Mushrooms, Russia and History by V. P. Wasson &amp; R. G. Wasson</h1>
 
 <p>This repository contains a work in progress e-book edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work <em>Mushrooms, Russia and History</em>. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. </p>
@@ -41,14 +32,39 @@
 <p>This e-book edition was compiled and typeset by Bayard Randel <a href="mailto:kit@nocturne.net.nz">kit@nocturne.net.nz</a> . It was derived from the <a href="http://www.newalexandria.org/archive/">New Alexandria Archive</a> digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.</p>
 
 <h2>
-<a id="building" class="anchor" href="#building" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building</h2>
+<a id="make-tasks" class="anchor" href="#make-tasks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Make tasks</h2>
 
-<p>To build run:</p>
+<h3>
+<a id="build" class="anchor" href="#build" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build</h3>
+
+<p>To build e-books run:</p>
+
+<pre><code>make
+</code></pre>
+
+<h4>
+<a id="epub-only" class="anchor" href="#epub-only" aria-hidden="true"><span class="octicon octicon-link"></span></a>Epub only</h4>
 
 <pre><code>make epub
 </code></pre>
 
-<p>Only epub is currently available.</p>
+<h4>
+<a id="mobi-only" class="anchor" href="#mobi-only" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mobi only</h4>
+
+<pre><code>make mobi
+</code></pre>
+
+<p><em>Note</em>: Building mobi/all requires <a href="http://www.amazon.com/gp/feature.html?docId=1000765211">Kindlegen</a> on your path.</p>
+
+<h3>
+<a id="verify" class="anchor" href="#verify" aria-hidden="true"><span class="octicon octicon-link"></span></a>Verify</h3>
+
+<p>To verify the epub, run:</p>
+
+<pre><code>make check
+</code></pre>
+
+<p><em>Note</em>: This requires <a href="https://github.com/idpf/epubcheck">epubcheck</a> on your path.</p>
 
 <h2>
 <a id="current-progress" class="anchor" href="#current-progress" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current Progress</h2>
@@ -57,18 +73,31 @@
 <a id="completed" class="anchor" href="#completed" aria-hidden="true"><span class="octicon octicon-link"></span></a>Completed</h3>
 
 <ul>
-<li>Chapter layout</li>
 <li>Frontmatter</li>
 <li>Preface</li>
-<li>Chapter I</li>
+<li>Biblio</li>
+<li>All Chapters</li>
 </ul>
 
 <h3>
 <a id="todo" class="anchor" href="#todo" aria-hidden="true"><span class="octicon octicon-link"></span></a>Todo</h3>
 
 <ul>
-<li>Add support for building mobi</li>
+<li>Proof-reading (particularly noting text requiring correction from the original, enumerated in <a href="errors.md">errors.md</a>
+</li>
+<li>Indicies
+
+<ul>
+<li>Index of Mushroom Names is full of errors, which require reference to the original for corrections.</li>
+<li>Indicies require links to anchors within the text.</li>
 </ul>
+</li>
+</ul>
+
+<h2>
+<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing</h2>
+
+<p>Please feel free to contact me with corrections. If you have access to the original texts, please see a list of errors that I need assistance with in <a href="errors.md">errors.md</a>. If you are in possession of an original edition of <em>Mushrooms, Russia and History</em>, I would be very grateful to hear from you and any assistance you could provide to ensure this e-book edition is as accurate as possible.</p>
 
 <h2>
 <a id="changes-from-the-original-text" class="anchor" href="#changes-from-the-original-text" aria-hidden="true"><span class="octicon octicon-link"></span></a>Changes from the original text</h2>
@@ -87,18 +116,15 @@
 
 <p>Where possible I have endeavoured to edit and correct errors in the text which presumably resulted from errors in OCR. Unfortunately I do not possess, nor know of an original copy of <em>Mushrooms, Russia and History</em> available for reference in New Zealand to ensure the absolute parity of this edition with the original text.</p>
 
-<h2>
-<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing</h2>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/squidsoup/mushrooms-russia-history-ebook">Mushrooms-russia-history-ebook</a> is maintained by <a href="https://github.com/squidsoup">squidsoup</a>.</span>
 
-<p>Please feel free to contact me with corrections. Pull requests are also welcome.</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/squidsoup">squidsoup</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-              <script type="text/javascript">
+
+    </section>
+
+            <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
@@ -111,3 +137,4 @@
 
   </body>
 </html>
+
