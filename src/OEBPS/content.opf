@@ -45,14 +45,16 @@
     <item href="Text/chapter_5_book_19.xhtml" id="a2chapter_5_book_19.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/chapter_5_book_20.xhtml" id="a2chapter_5_book_20.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/chapter_5_book_21.xhtml" id="a2chapter_5_book_21.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/index_persons_and_places.xhtml" id="index_persons_and_places.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/index_mushroom_names.xhtml" id="index_mushroom_names.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/fungal_metaphor_and_sem_assoc.xhtml" id="fungal_metaphor_and_sem_assoc.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/biblio_notes_and_acknowledgements.xhtml" id="biblio_notes_and_acknowledgements.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/appendices.xhtml" id="appendices.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_4.xhtml" id="appendix_4.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_3.xhtml" id="appendix_3.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_2.xhtml" id="appendix_2.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_1.xhtml" id="appendix_1.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/biblio_notes_and_acknowledgements.xhtml" id="biblio_notes_and_acknowledgements.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/indices.xhtml" id="indices.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/fungal_metaphor_and_sem_assoc.xhtml" id="fungal_metaphor_and_sem_assoc.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/index_mushroom_names.xhtml" id="index_mushroom_names.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/index_persons_and_places.xhtml" id="index_persons_and_places.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/copyright.xhtml" id="a1copyright.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/colophon.xhtml" id="a1colophon.xhtml" media-type="application/xhtml+xml" />
     <item href="Images/cover.jpeg" id="a1cover" media-type="image/jpeg" />
@@ -227,10 +229,12 @@
     <itemref idref="a2chapter_5_book_20.xhtml" linear="yes" />
     <itemref idref="a2chapter_5_book_21.xhtml" linear="yes" />
     <itemref idref="biblio_notes_and_acknowledgements.xhtml" />
+    <itemref idref="appendices.xhtml" />
     <itemref idref="appendix_1.xhtml" />
     <itemref idref="appendix_2.xhtml" />
     <itemref idref="appendix_3.xhtml" />
     <itemref idref="appendix_4.xhtml" />
+    <itemref idref="indices.xhtml" />
     <itemref idref="fungal_metaphor_and_sem_assoc.xhtml" />
     <itemref idref="index_mushroom_names.xhtml" />
     <itemref idref="index_persons_and_places.xhtml" linear="yes" />

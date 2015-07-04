@@ -223,10 +223,6 @@ span.initial {
     text-align: center;
 }
 
-.illustration-list {
-    list-style-type: lower-roman;
-}
-
 .indicies {
     -webkit-column-count: 2;
     -webkit-column-rule: 0px;
@@ -250,6 +246,12 @@ span.initial {
 
 .plate-list {
     list-style-type: upper-roman;
+    margin-left: 2.5em;
+}
+
+.figure-list {
+    list-style-type: lower-roman;
+    margin-left: 2.5em;
 }
 
 .pull-right {
