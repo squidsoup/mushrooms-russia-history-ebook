@@ -230,7 +230,7 @@ span.initial {
     column-rule: 0px;
 }
 
-.indicies ul {
+.indicies ul, .indicies ol {
     list-style-type: none;
 }
 
