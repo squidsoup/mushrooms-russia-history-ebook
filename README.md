@@ -1,6 +1,6 @@
 # eBook: Mushrooms, Russia and History by V. P. Wasson & R. G. Wasson
 
-This repository contains the [New Alexandria Archive](http://www.newalexandria.org/archive/) eBook edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. 
+This repository contains the [New Alexandria Archive](http://www.newalexandria.org/archive/) eBook edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this eBook edition will make this fascinating work more accessible to the general public. 
 
 ![porcini](src/OEBPS/Images/index-14_1.jpg)
 
@@ -10,7 +10,7 @@ This eBook was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It 
 
 ## Make tasks
 ### Build
-To build e-books run:
+To build eBooks run:
 
     make
 
@@ -52,8 +52,8 @@ To verify the epub, run:
 
 In order to adapt this work to eBook formats, a number of changes have been made:
 
-* While Mushrooms, Russia and History was originally published in two volumes, both volumes are presented here as a single e-book for convenience. References to volumes in the text have been removed.
-* As e-book page layouts are fluid and device dependant, the position of figures and plates have been changed to improve clarity.
+* While Mushrooms, Russia and History was originally published in two volumes, both volumes are presented here as a single eBook for convenience. References to volumes in the text have been removed.
+* As eBook page layouts are fluid and device dependant, the position of figures and plates have been changed to improve clarity.
 * Footnotes are rendered at the end of chapters and numbered per chapter rather than per page.
 * References to page numbers from the original text have been removed. Links instead are provided from appendicies and indicies.
 
