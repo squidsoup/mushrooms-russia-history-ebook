@@ -44,9 +44,7 @@ To verify the epub, run:
 
 * Add higher resolution plates.
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
-* Indices
-  * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
-  * Indices require links to anchors within the text.
+* Indices require links to anchors within the text.
 
 ## Changes from the original text
 
@@ -55,7 +53,7 @@ In order to adapt this work to eBook formats, a number of changes have been made
 * While Mushrooms, Russia and History was originally published in two volumes, both volumes are presented here as a single eBook for convenience. References to volumes in the text have been removed.
 * As eBook page layouts are fluid and device dependant, the position of figures and plates have been changed to improve clarity.
 * Footnotes are rendered at the end of chapters and numbered per chapter rather than per page.
-* References to page numbers from the original text have been removed. Links instead are provided from appendicies and indicies.
+* References to page numbers from the original text have been removed. Links instead are provided from appendices and indices.
 
 ## Changes from the New Alexandria Archive digital edition pdf
 
