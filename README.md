@@ -42,6 +42,7 @@ To verify the epub, run:
 
 ### Todo
 
+* Add higher resolution plates.
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
 * Indices
   * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
