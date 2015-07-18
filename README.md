@@ -1,12 +1,12 @@
-# E-book: Mushrooms, Russia and History by V. P. Wasson & R. G. Wasson
+# eBook: Mushrooms, Russia and History by V. P. Wasson & R. G. Wasson
 
-This repository contains a work in progress e-book edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. 
+This repository contains the [New Alexandria Archive](http://www.newalexandria.org/archive/) eBook edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this e-book edition will make this fascinating work more accessible to the general public. 
 
 ![porcini](src/OEBPS/Images/index-14_1.jpg)
 
-## Notes on the E-book edition
+## Notes on the New Alexandria Archive eBook edition
 
-This e-book edition was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
+This eBook was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
 
 ## Make tasks
 ### Build
@@ -43,17 +43,13 @@ To verify the epub, run:
 ### Todo
 
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
-* Indicies
+* Indices
   * Index of Mushroom Names is full of errors, which require reference to the original for corrections.
-  * Indicies require links to anchors within the text.
-  
-## Contributing
-
-Please feel free to contact me with corrections. If you have access to the original texts, please see a list of errors that I need assistance with in [errors.md](errors.md). If you are in possession of an original edition of *Mushrooms, Russia and History*, I would be very grateful to hear from you and any assistance you could provide to ensure this e-book edition is as accurate as possible.
+  * Indices require links to anchors within the text.
 
 ## Changes from the original text
 
-In order to adapt this work to e-book formats, a number of changes have been made:
+In order to adapt this work to eBook formats, a number of changes have been made:
 
 * While Mushrooms, Russia and History was originally published in two volumes, both volumes are presented here as a single e-book for convenience. References to volumes in the text have been removed.
 * As e-book page layouts are fluid and device dependant, the position of figures and plates have been changed to improve clarity.
@@ -62,4 +58,6 @@ In order to adapt this work to e-book formats, a number of changes have been mad
 
 ## Changes from the New Alexandria Archive digital edition pdf
 
-Where possible I have endeavoured to edit and correct errors in the text which presumably resulted from errors in OCR. Unfortunately I do not possess, nor know of an original copy of *Mushrooms, Russia and History* available for reference in New Zealand to ensure the absolute parity of this edition with the original text.
+With reference to the original scans I have endeavoured correct errors in the text which presumably resulted from errors in the original OCR.
+
+http://www.newalexandria.org/
