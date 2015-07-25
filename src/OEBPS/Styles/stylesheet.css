@@ -151,6 +151,11 @@ figure {
   overflow: auto;
 }
 
+figure .plate {
+    page-break-after: always;
+    page-break-before: always;
+}
+
 figure figcaption {
     margin-top: 1em;
     text-align: center;
