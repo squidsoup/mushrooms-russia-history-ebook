@@ -241,5 +241,7 @@
     <itemref idref="a1colophon.xhtml" linear="yes" />
     <itemref idref="a1copyright.xhtml" linear="yes" />
   </spine>
-  <guide />
+    <guide>
+      <reference href="Text/toc.xhtml" type="toc" title="Table of Contents" />
+    </guide>
 </package>
