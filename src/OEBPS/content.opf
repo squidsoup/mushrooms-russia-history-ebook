@@ -8,7 +8,7 @@
     <dc:rights>Public domain</dc:rights>
     <dc:language>eng</dc:language>
     <dc:description>Anthology containing: Mushrooms, Russia and History Volume 1 Mushrooms, Russia and History Volume 2</dc:description>
-    <meta name="cover" content="coverimageid" />
+    <meta name="cover" content="cover-image" />
     <dc:date opf:event="modification">2015-01-15</dc:date>
   </metadata>
   <manifest>
@@ -57,129 +57,136 @@
     <item href="Text/index_persons_and_places.xhtml" id="index_persons_and_places.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/copyright.xhtml" id="a1copyright.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/colophon.xhtml" id="a1colophon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Images/cover.jpeg" id="a1cover" media-type="image/jpeg" />
-    <item href="Images/cover.jpg" id="a2cover" media-type="image/jpeg" />
+    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    <item href="Images/plate_1.jpg" id="plate-1" media-type="image/jpeg" />
+    <item href="Images/plate_2.jpg" id="plate-2" media-type="image/jpeg" />
+    <item href="Images/plate_3.jpg" id="plate-3" media-type="image/jpeg" />
+    <item href="Images/plate_4.jpg" id="plate-4" media-type="image/jpeg" />
+    <item href="Images/plate_5.jpg" id="plate-5" media-type="image/jpeg" />
+    <item href="Images/plate_6.jpg" id="plate-6" media-type="image/jpeg" />
+    <item href="Images/plate_7.jpg" id="plate-7" media-type="image/jpeg" />
+    <item href="Images/plate_8.jpg" id="plate-8" media-type="image/jpeg" />
+    <item href="Images/plate_9.jpg" id="plate-9" media-type="image/jpeg" />
+    <item href="Images/plate_10.jpg" id="plate-10" media-type="image/jpeg" />
+    <item href="Images/plate_11.jpg" id="plate-11" media-type="image/jpeg" />
+    <item href="Images/plate_12.jpg" id="plate-12" media-type="image/jpeg" />
+    <item href="Images/plate_13.jpg" id="plate-13" media-type="image/jpeg" />
+    <item href="Images/plate_14.jpg" id="plate-14" media-type="image/jpeg" />
+    <item href="Images/plate_15.jpg" id="plate-15" media-type="image/jpeg" />
+    <item href="Images/plate_16.jpg" id="plate-16" media-type="image/jpeg" />
+    <item href="Images/plate_17.jpg" id="plate-17" media-type="image/jpeg" />
+    <item href="Images/plate_18.jpg" id="plate-18" media-type="image/jpeg" />
+    <item href="Images/plate_19.jpg" id="plate-19" media-type="image/jpeg" />
+    <item href="Images/plate_20.jpg" id="plate-20" media-type="image/jpeg" />
+    <item href="Images/plate_21.jpg" id="plate-21" media-type="image/jpeg" />
+    <item href="Images/plate_22.jpg" id="plate-22" media-type="image/jpeg" />
+    <item href="Images/plate_23.jpg" id="plate-23" media-type="image/jpeg" />
+    <item href="Images/plate_24.jpg" id="plate-24" media-type="image/jpeg" />
+    <item href="Images/plate_25.jpg" id="plate-25" media-type="image/jpeg" />
+    <item href="Images/plate_26.jpg" id="plate-26" media-type="image/jpeg" />
+    <item href="Images/plate_27.jpg" id="plate-27" media-type="image/jpeg" />
+    <item href="Images/plate_28.jpg" id="plate-28" media-type="image/jpeg" />
+    <item href="Images/plate_29.jpg" id="plate-29" media-type="image/jpeg" />
+    <item href="Images/plate_30.jpg" id="plate-30" media-type="image/jpeg" />
+    <item href="Images/plate_31.jpg" id="plate-31" media-type="image/jpeg" />
+    <item href="Images/plate_32.jpg" id="plate-32" media-type="image/jpeg" />
+    <item href="Images/plate_33.jpg" id="plate-33" media-type="image/jpeg" />
+    <item href="Images/plate_34.jpg" id="plate-34" media-type="image/jpeg" />
+    <item href="Images/plate_35.jpg" id="plate-35" media-type="image/jpeg" />
+    <item href="Images/plate_36.jpg" id="plate-36" media-type="image/jpeg" />
+    <item href="Images/plate_37.jpg" id="plate-37" media-type="image/jpeg" />
+    <item href="Images/plate_38.jpg" id="plate-38" media-type="image/jpeg" />
+    <item href="Images/plate_39.jpg" id="plate-39" media-type="image/jpeg" />
+    <item href="Images/plate_40.jpg" id="plate-40" media-type="image/jpeg" />
+    <item href="Images/plate_41.jpg" id="plate-41" media-type="image/jpeg" />
+    <item href="Images/plate_42.jpg" id="plate-42" media-type="image/jpeg" />
+    <item href="Images/plate_43.jpg" id="plate-43" media-type="image/jpeg" />
+    <item href="Images/plate_44.jpg" id="plate-44" media-type="image/jpeg" />
+    <item href="Images/plate_45.jpg" id="plate-45" media-type="image/jpeg" />
+    <item href="Images/plate_46.jpg" id="plate-46" media-type="image/jpeg" />
+    <item href="Images/plate_47.jpg" id="plate-47" media-type="image/jpeg" />
+    <item href="Images/plate_48.jpg" id="plate-48" media-type="image/jpeg" />
+    <item href="Images/plate_49.jpg" id="plate-49" media-type="image/jpeg" />
+    <item href="Images/plate_50.jpg" id="plate-50" media-type="image/jpeg" />
+    <item href="Images/plate_51.jpg" id="plate-51" media-type="image/jpeg" />
+    <item href="Images/plate_52.jpg" id="plate-52" media-type="image/jpeg" />
+    <item href="Images/plate_53.jpg" id="plate-53" media-type="image/jpeg" />
+    <item href="Images/plate_54.jpg" id="plate-54" media-type="image/jpeg" />
+    <item href="Images/plate_55.jpg" id="plate-55" media-type="image/jpeg" />
+    <item href="Images/plate_56.jpg" id="plate-56" media-type="image/jpeg" />
+    <item href="Images/plate_57.jpg" id="plate-57" media-type="image/jpeg" />
+    <item href="Images/plate_58.jpg" id="plate-58" media-type="image/jpeg" />
+    <item href="Images/plate_59.jpg" id="plate-59" media-type="image/jpeg" />
+    <item href="Images/plate_60.jpg" id="plate-60" media-type="image/jpeg" />
+    <item href="Images/plate_61.jpg" id="plate-61" media-type="image/jpeg" />
+    <item href="Images/plate_62.jpg" id="plate-62" media-type="image/jpeg" />
+    <item href="Images/plate_63.jpg" id="plate-63" media-type="image/jpeg" />
+    <item href="Images/plate_64.jpg" id="plate-64" media-type="image/jpeg" />
+    <item href="Images/plate_65.jpg" id="plate-65" media-type="image/jpeg" />
+    <item href="Images/plate_66.jpg" id="plate-66" media-type="image/jpeg" />
+    <item href="Images/plate_67.jpg" id="plate-67" media-type="image/jpeg" />
+    <item href="Images/plate_68.jpg" id="plate-68" media-type="image/jpeg" />
+    <item href="Images/plate_69.jpg" id="plate-69" media-type="image/jpeg" />
+    <item href="Images/plate_70.jpg" id="plate-70" media-type="image/jpeg" />
+    <item href="Images/plate_71.jpg" id="plate-71" media-type="image/jpeg" />
+    <item href="Images/plate_72.jpg" id="plate-72" media-type="image/jpeg" />
+    <item href="Images/plate_73.jpg" id="plate-73" media-type="image/jpeg" />
+    <item href="Images/plate_74.jpg" id="plate-74" media-type="image/jpeg" />
+    <item href="Images/plate_75.jpg" id="plate-75" media-type="image/jpeg" />
+    <item href="Images/plate_76.jpg" id="plate-76" media-type="image/jpeg" />
+    <item href="Images/plate_77.jpg" id="plate-77" media-type="image/jpeg" />
+    <item href="Images/plate_78.jpg" id="plate-78" media-type="image/jpeg" />
+    <item href="Images/plate_79.jpg" id="plate-79" media-type="image/jpeg" />
+    <item href="Images/plate_80.jpg" id="plate-80" media-type="image/jpeg" />
+    <item href="Images/plate_81.jpg" id="plate-81" media-type="image/jpeg" />
+    <item href="Images/plate_82.jpg" id="plate-82" media-type="image/jpeg" />
+    <item href="Images/plate_83.jpg" id="plate-83" media-type="image/jpeg" />
     <item href="Images/index-1_2.jpg" id="a1id30" media-type="image/jpeg" />
     <item href="Images/index-2_1.jpg" id="a2id67" media-type="image/jpeg" />
     <item href="Images/index-2_2.jpg" id="a2id68" media-type="image/jpeg" />
-    <item href="Images/index-33_1.jpg" id="a1id50" media-type="image/jpeg" />
-    <item href="Images/index-39_1.jpg" id="a1id51" media-type="image/jpeg" />
-    <item href="Images/index-68_1.jpg" id="a1id55" media-type="image/jpeg" />
-    <item href="Images/index-77_1.jpg" id="a1id56" media-type="image/jpeg" />
-    <item href="Images/index-87_1.jpg" id="a1id57" media-type="image/jpeg" />
-    <item href="Images/index-93_1.jpg" id="a1id58" media-type="image/jpeg" />
-    <item href="Images/index-95_1.jpg" id="a1id59" media-type="image/jpeg" />
     <item href="Images/index-30_1.jpg" id="a2id69" media-type="image/jpeg" />
     <item href="Images/index-31_1.jpg" id="a2id70" media-type="image/jpeg" />
     <item href="Images/index-31_2.jpg" id="a2id71" media-type="image/jpeg" />
-    <item href="Images/index-40_1.jpg" id="a2id72" media-type="image/jpeg" />
     <item href="Images/index-45_1.jpg" id="a2id73" media-type="image/jpeg" />
-    <item href="Images/index-46_1.jpg" id="a1id52" media-type="image/jpeg" />
     <item href="Images/index-52_1.jpg" id="a2id74" media-type="image/jpeg" />
-    <item href="Images/index-54_1.jpg" id="a2id75" media-type="image/jpeg" />
-    <item href="Images/index-56_1.jpg" id="a2id76" media-type="image/jpeg" />
     <item href="Images/index-58_2.jpg" id="a2id77" media-type="image/jpeg" />
     <item href="Images/index-60_1.jpg" id="a2id78" media-type="image/jpeg" />
     <item href="Images/index-61_1.jpg" id="a2id79" media-type="image/jpeg" />
-    <item href="Images/index-62_1.jpg" id="a2id80" media-type="image/jpeg" />
     <item href="Images/index-62_3.jpg" id="a2id81" media-type="image/jpeg" />
     <item href="Images/index-64_1.jpg" id="a2id82" media-type="image/jpeg" />
     <item href="Images/index-64_2.jpg" id="a2id83" media-type="image/jpeg" />
-    <item href="Images/index-65_1.jpg" id="a2id84" media-type="image/jpeg" />
     <item href="Images/index-66_1.jpg" id="a2id85" media-type="image/jpeg" />
-    <item href="Images/index-78_1.jpg" id="a2id86" media-type="image/jpeg" />
-    <item href="Images/index-79_1.jpg" id="a2id87" media-type="image/jpeg" />
     <item href="Images/index-82_1.jpg" id="a2id88" media-type="image/jpeg" />
     <item href="Images/index-83_1.jpg" id="a2id89" media-type="image/jpeg" />
-    <item href="Images/index-84_1.jpg" id="a2id90" media-type="image/jpeg" />
     <item href="Images/index-85_1.jpg" id="a2id91" media-type="image/jpeg" />
     <item href="Images/index-88_1.jpg" id="a2id92" media-type="image/jpeg" />
     <item href="Images/index-97_1.jpg" id="a2id93" media-type="image/jpeg" />
-    <item href="Images/index-101_1.jpg" id="a2id2" media-type="image/jpeg" />
-    <item href="Images/index-102_1.jpg" id="a2id3" media-type="image/jpeg" />
-    <item href="Images/index-103_1.jpg" id="a2id4" media-type="image/jpeg" />
-    <item href="Images/index-104_1.jpg" id="a2id5" media-type="image/jpeg" />
-    <item href="Images/index-111_1.jpg" id="a2id6" media-type="image/jpeg" />
-    <item href="Images/index-105_1.jpg" id="a1id2" media-type="image/jpeg" />
     <item href="Images/index-107_1.jpg" id="a1id3" media-type="image/jpeg" />
-    <item href="Images/index-114_1.jpg" id="a1id4" media-type="image/jpeg" />
     <item href="Images/index-119_1.jpg" id="a1id5" media-type="image/jpeg" />
-    <item href="Images/index-123_1.jpg" id="a1id6" media-type="image/jpeg" />
     <item href="Images/index-127_1.jpg" id="a1id7" media-type="image/jpeg" />
-    <item href="Images/index-128_1.jpg" id="a1id8" media-type="image/jpeg" />
-    <item href="Images/index-130_1.jpg" id="a1id9" media-type="image/jpeg" />
-    <item href="Images/index-131_1.jpg" id="a1id10" media-type="image/jpeg" />
-    <item href="Images/index-132_1.jpg" id="a1id11" media-type="image/jpeg" />
-    <item href="Images/index-135_1.jpg" id="a1id12" media-type="image/jpeg" />
-    <item href="Images/index-145_2.jpg" id="a1id13" media-type="image/jpeg" />
-    <item href="Images/index-147_2.jpg" id="a1id14" media-type="image/jpeg" />
     <item href="Images/index-153_1.jpg" id="a1id15" media-type="image/jpeg" />
-    <item href="Images/index-162_2.jpg" id="a1id16" media-type="image/jpeg" />
-    <item href="Images/index-168_1.jpg" id="a1id17" media-type="image/jpeg" />
     <item href="Images/index-169_1.jpg" id="a1id18" media-type="image/jpeg" />
-    <item href="Images/index-176_1.jpg" id="a1id19" media-type="image/jpeg" />
     <item href="Images/index-177_1.jpg" id="a1id20" media-type="image/jpeg" />
     <item href="Images/index-177_2.jpg" id="a1id21" media-type="image/jpeg" />
     <item href="Images/index-177_3.jpg" id="a1id22" media-type="image/jpeg" />
-    <item href="Images/index-181_1.jpg" id="a1id23" media-type="image/jpeg" />
-    <item href="Images/index-182_2.jpg" id="a1id24" media-type="image/jpeg" />
-    <item href="Images/index-183_2.jpg" id="a1id25" media-type="image/jpeg" />
-    <item href="Images/index-184_1.jpg" id="a1id26" media-type="image/jpeg" />
-    <item href="Images/index-190_2.jpg" id="a1id27" media-type="image/jpeg" />
-    <item href="Images/index-191_1.jpg" id="a1id28" media-type="image/jpeg" />
-    <item href="Images/index-197_2.jpg" id="a1id29" media-type="image/jpeg" />
-    <item href="Images/index-202_2.jpg" id="a1id31" media-type="image/jpeg" />
-    <item href="Images/index-211_1.jpg" id="a1id32" media-type="image/jpeg" />
-    <item href="Images/index-215_1.jpg" id="a1id33" media-type="image/jpeg" />
     <item href="Images/index-21_1.jpg" id="a1id34" media-type="image/jpeg" />
+    <item href="Images/index-215_1.jpg" id="a1id215" media-type="image/jpeg" />
     <item href="Images/index-228_1.jpg" id="a1id35" media-type="image/jpeg" />
-    <item href="Images/index-232_1.jpg" id="a1id36" media-type="image/jpeg" />
     <item href="Images/index-234_1.jpg" id="a1id37" media-type="image/jpeg" />
     <item href="Images/index-239_1.jpg" id="a1id38" media-type="image/jpeg" />
-    <item href="Images/index-23_1.jpg" id="a1id39" media-type="image/jpeg" />
-    <item href="Images/index-253_1.jpg" id="a1id40" media-type="image/jpeg" />
-    <item href="Images/index-254_1.jpg" id="a1id41" media-type="image/jpeg" />
-    <item href="Images/index-260_1.jpg" id="a1id42" media-type="image/jpeg" />
-    <item href="Images/index-277_1.jpg" id="a1id43" media-type="image/jpeg" />
     <item href="Images/index-278_1.jpg" id="a1id44" media-type="image/jpeg" />
-    <item href="Images/index-279_1.jpg" id="a1id45" media-type="image/jpeg" />
     <item href="Images/index-287_3.jpg" id="a1id46" media-type="image/jpeg" />
     <item href="Images/index-287_2.jpg" id="a1id47" media-type="image/jpeg" />
     <item href="Images/index-11_1.jpg" id="a2id7" media-type="image/jpeg" />
     <item href="Images/index-124_1.jpg" id="a2id8" media-type="image/jpeg" />
     <item href="Images/index-132_3.jpg" id="a2id11" media-type="image/jpeg" />
-    <item href="Images/index-136_1.jpg" id="a2id13" media-type="image/jpeg" />
-    <item href="Images/index-137_1.jpg" id="a2id14" media-type="image/jpeg" />
     <item href="Images/index-140_1.jpg" id="a2id15" media-type="image/jpeg" />
-    <item href="Images/index-143_1.jpg" id="a2id16" media-type="image/jpeg" />
     <item href="Images/index-146_1.jpg" id="a2id18" media-type="image/jpeg" />
     <item href="Images/index-147_3.jpg" id="a2id20" media-type="image/jpeg" />
-    <item href="Images/index-14_1.jpg" id="a2id21" media-type="image/jpeg" />
     <item href="Images/index-153_3.jpg" id="a2id23" media-type="image/jpeg" />
-    <item href="Images/index-171_1.jpg" id="a2id25" media-type="image/jpeg" />
-    <item href="Images/index-172_1.jpg" id="a2id26" media-type="image/jpeg" />
     <item href="Images/index-174_1.jpg" id="a2id27" media-type="image/jpeg" />
-    <item href="Images/index-185_1.jpg" id="a2id30" media-type="image/jpeg" />
-    <item href="Images/index-186_1.jpg" id="a2id31" media-type="image/jpeg" />
-    <item href="Images/index-188_1.jpg" id="a2id32" media-type="image/jpeg" />
-    <item href="Images/index-189_1.jpg" id="a2id33" media-type="image/jpeg" />
-    <item href="Images/index-192_1.jpg" id="a2id35" media-type="image/jpeg" />
-    <item href="Images/index-193_1.jpg" id="a2id36" media-type="image/jpeg" />
-    <item href="Images/index-194_1.jpg" id="a2id37" media-type="image/jpeg" />
-    <item href="Images/index-195_1.jpg" id="a2id38" media-type="image/jpeg" />
-    <item href="Images/index-196_1.jpg" id="a2id39" media-type="image/jpeg" />
-    <item href="Images/index-198_1.jpg" id="a2id41" media-type="image/jpeg" />
-    <item href="Images/index-200_1.jpg" id="a2id43" media-type="image/jpeg" />
-    <item href="Images/index-201_1.jpg" id="a2id44" media-type="image/jpeg" />
-    <item href="Images/index-204_1.jpg" id="a2id46" media-type="image/jpeg" />
-    <item href="Images/index-205_1.jpg" id="a2id47" media-type="image/jpeg" />
-    <item href="Images/index-217_1.jpg" id="a2id49" media-type="image/jpeg" />
     <item href="Images/index-219_1.jpg" id="a2id50" media-type="image/jpeg" />
-    <item href="Images/index-227_1.jpg" id="a2id51" media-type="image/jpeg" />
-    <item href="Images/index-250_1.jpg" id="a2id52" media-type="image/jpeg" />
-    <item href="Images/index-252_1.jpg" id="a2id53" media-type="image/jpeg" />
     <item href="Images/index-25_1.jpg" id="a2id54" media-type="image/jpeg" />
-    <item href="Images/index-262_1.jpg" id="a2id55" media-type="image/jpeg" />
     <item href="Images/index-289_1.jpg" id="a2id58" media-type="image/jpeg" />
     <item href="Images/index-289_2.jpg" id="a2id59" media-type="image/jpeg" />
     <item href="Images/index-289_3.jpg" id="a2id60" media-type="image/jpeg" />
