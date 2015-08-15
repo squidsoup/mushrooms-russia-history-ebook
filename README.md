@@ -42,7 +42,6 @@ To verify the epub, run:
 
 ### Todo
 
-* Add higher resolution plates.
 * Proof-reading (particularly noting text requiring correction from the original, enumerated in [errors.md](errors.md)
 * Indices require links to anchors within the text.
 * Investigate whereabouts of plate 55 (spirit).
