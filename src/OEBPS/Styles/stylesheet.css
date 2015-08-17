@@ -222,6 +222,15 @@ span.initial {
     margin-bottom: -0.1em;
 }
 
+.sub-chapter {
+    margin-top: 1.5em;
+}
+
+span.initial-small {
+    font-size: 1.5em;
+    line-height: 0.8em;
+}
+
 .colophon {
     text-align: center;
 }
