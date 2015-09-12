@@ -23,8 +23,17 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 table {
   width: 80%;
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto; 
+  margin-right: auto;
+}
 
+table th {
+    text-align: left;
+    padding-bottom: 1em;
+}
 /* end reset */
 
 @page {
