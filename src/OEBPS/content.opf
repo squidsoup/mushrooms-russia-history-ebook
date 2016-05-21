@@ -51,10 +51,6 @@
     <item href="Text/appendix_3.xhtml" id="appendix_3.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_2.xhtml" id="appendix_2.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/appendix_1.xhtml" id="appendix_1.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/indices.xhtml" id="indices.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/fungal_metaphor_and_sem_assoc.xhtml" id="fungal_metaphor_and_sem_assoc.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/index_mushroom_names.xhtml" id="index_mushroom_names.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/index_persons_and_places.xhtml" id="index_persons_and_places.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/copyright.xhtml" id="a1copyright.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/colophon.xhtml" id="a1colophon.xhtml" media-type="application/xhtml+xml" />
     <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
@@ -241,10 +237,6 @@
     <itemref idref="appendix_2.xhtml" />
     <itemref idref="appendix_3.xhtml" />
     <itemref idref="appendix_4.xhtml" />
-    <itemref idref="indices.xhtml" />
-    <itemref idref="fungal_metaphor_and_sem_assoc.xhtml" />
-    <itemref idref="index_mushroom_names.xhtml" />
-    <itemref idref="index_persons_and_places.xhtml" linear="yes" />
     <itemref idref="a1colophon.xhtml" linear="yes" />
     <itemref idref="a1copyright.xhtml" linear="yes" />
   </spine>
