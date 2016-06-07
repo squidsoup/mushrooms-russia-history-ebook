@@ -53,7 +53,7 @@
     <item href="Text/appendix_1.xhtml" id="appendix_1.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/copyright.xhtml" id="a1copyright.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/colophon.xhtml" id="a1colophon.xhtml" media-type="application/xhtml+xml" />
-    <item href="Images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    <item href="Images/cover.png" id="cover-image" media-type="image/png" />
     <item href="Images/plate_1.jpg" id="plate-1" media-type="image/jpeg" />
     <item href="Images/plate_2.jpg" id="plate-2" media-type="image/jpeg" />
     <item href="Images/plate_3.jpg" id="plate-3" media-type="image/jpeg" />
