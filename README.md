@@ -2,11 +2,11 @@
 
 This repository contains the [New Alexandria Archive](http://www.newalexandria.org/archive/) eBook edition of Valentina Pavlovna Wasson and R. Gordon Wasson's pioneering two volume work *Mushrooms, Russia and History*. As only 512 copies were ever published, it is my hope that this eBook edition will make this fascinating work more accessible to the general public. 
 
-![porcini](src/OEBPS/Images/index-14_1.jpg)
+![porcini](/src/OEBPS/Images/index-21_1.jpg)
 
 ## Notes on the New Alexandria Archive eBook edition
 
-This eBook was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden.
+This eBook was compiled and typeset by Bayard Randel <kit@nocturne.net.nz> . It was derived from the [New Alexandria Archive](http://www.newalexandria.org/archive/) digital edition pdf, which was scanned from the original copy no. 37, and hand corrected by Igor Dolgov, Zachary Jones, and Greg Golden. Additional corrections have been made with reference to original scans provided by Zachary Jones.
 
 ## Make tasks
 ### Build
@@ -42,9 +42,7 @@ To verify the epub, run:
 
 ### Todo
 
-* Indices require links to anchors within the text.
-* Investigate whereabouts of plate 55 (spirit).
-* Add all sub-chapters and small initials.
+* Add indices (~60% complete in https://github.com/squidsoup/mushrooms-russia-history-ebook/tree/indices)
 
 ## Changes from the original text
 
